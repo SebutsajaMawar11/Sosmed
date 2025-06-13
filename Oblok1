@@ -1867,49 +1867,6 @@ https://scontent-cgk1-2.xx.fbcdn.net/o1/v/t2/f2/m69/AQNS9ZhSRcyw7j7-SSlsGudzpKYU
 
 
 
-
-#EXTINF:-1 tvg-name="TRUE P1" tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier1.png" group-title="SPORTS 2 HD",TRUE PREMIER 1 
-https://delicate-hall-d108.wirdytv.workers.dev/02_PremierHD1_720p/chunklist.m3u8
-
-
-
-#EXTINF:-1 tvg-name="TRUE P2" tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier2.png" group-title="SPORTS 2 HD",TRUE PREMIER 2
-https://delicate-hall-d108.wirdytv.workers.dev/02_PremierHD2_720p/chunklist.m3u8
-
-
-
-
-#EXTINF:-1 tvg-name="TRUE P3" tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier3.png" group-title="SPORTS 2 HD",TRUE PREMIER 3
-https://delicate-hall-d108.wirdytv.workers.dev/02_PremierHD3_720p/chunklist.m3u8
-
-
-
-#EXTINF:-1 tvg-name="TRUE P4" tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier4.png" group-title="SPORTS 2 HD",TRUE PREMIER 4
-https://delicate-hall-d108.wirdytv.workers.dev/02_PremierHD4_720p/chunklist.m3u8
-
-
-
-#EXTINF:-1 tvg-name="TRUE 2" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/hd-tsport2.png" group-title="SPORTS 2 HD",TRUE SPORT 2
-https://delicate-hall-d108.wirdytv.workers.dev/02_2sporthd1_720p/chunklist.m3u8
-
-
-
-#EXTINF:-1 tvg-name="TRUE 3" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/hd-tsport3.png" group-title="SPORTS 2 HD",TRUE SPORT 3
-https://delicate-hall-d108.wirdytv.workers.dev/02_2sporthd2_720p/chunklist.m3u8
-
-
-
-#EXTINF:-1 tvg-name="TRUE 4" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/hd-tsport4.png" group-title="SPORTS 2 HD",TRUE SPORT 4
-https://delicate-hall-d108.wirdytv.workers.dev/02_2sporthd3_720p/chunklist.m3u8
-
-
-
-#EXTINF:-1 tvg-name="TRUE 5" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/doomovie-epl5.png" group-title="SPORTS 2 HD",TRUE SPORT 5
-https://delicate-hall-d108.wirdytv.workers.dev/02_2sporthd4_720p/chunklist.m3u8
-
-
-
-
 #EXTINF:-1 tvg-name="TVRI SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/58/TVRI_Sport_2017.png" group-title="SPORTS 2 HD",TVRI SPORT
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
@@ -1919,31 +1876,6 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="SPORTS 2 HD", SONY TEN 4 HD
 https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="sonyten5hd.in" tvg-name="SONY TEN 5 HD" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png" group-title="SPORTS 2 HD",SONY TEN 5 HD
-https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
-
-
-
-#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="Star Sports Select 1 HD" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_1_HD.png" group-title="SPORTS 2 HD",Star Sports Select 1 HD
-http://watchindia.net:8880/live/32612/55103/1070.ts
-
-
-
-#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="Star Sports Select 2 HD" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_2_HD.png" group-title="SPORTS 2 HD",Star Sports Select 2 HD
-http://watchindia.net:8880/live/32612/55103/1071.ts
-
-
-
-
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/mh03f41638048848.png" group-title="SPORTS 2 HD",SS Variety 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://topembed.pw/
-https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium418
-
 
 
 
