@@ -1,5 +1,49 @@
 #EXTM3U
-#EXTM3U billed-msg="DO NOT SELL THISPLAYLIST ! - updated 22 Sep 2025 11:56 WIB" x-tvg-url="https://t.me/mawar_developer"
+#EXTM3U billed-msg="DO NOT SELL THISPLAYLIST ! - updated 26 Sep 2025 11:56 WIB" x-tvg-url="https://t.me/mawar_developer" // - req-bali
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -132,6 +176,13 @@ ________________________________________________________________________________
 EVENT _____🔴🔴🔴
 
 
+#EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://cdn.grid.id/crop/19x33:732x380/x/photo/2025/09/02/screenshot-2025-09-02-180343png-20250902060409.png",Kualifikasi Piala Asia U-23 2026 (B)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
+
+
 
 _____
 🔴BRI 1)
@@ -140,15 +191,16 @@ _____
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19354&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19354&type=dash
+###https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19354&type=dash
 
-
+____
+🔴BRI A)
 
 #EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://thumbor.prod.vidiocdn.com/1yUx9ULvuSMX8kkdqgJMJ4f-Slg=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19354/bri-super-league-7ef0b7.jpg", LIGA BRI (A) - Super League (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=205&type=drm
-######https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=205&type=dash
+###https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=205&type=dash
 
 
 
@@ -159,7 +211,7 @@ ___
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19354&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19354&type=dash
+###https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19354&type=dash
 
 ____
 🔴pegadaian1)
@@ -168,7 +220,7 @@ ____
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19543&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19543&type=dash
+###https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19543&type=dash
 
 
 _____
@@ -178,7 +230,7 @@ _____
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19542&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19542&type=dash
+###https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19542&type=dash
 
 
 
@@ -236,7 +288,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/in
 #KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://103.179.182.117:6768/hls/51/51.m3u8
+###http://103.179.182.117:6768/hls/51/51.m3u8
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 
 
@@ -279,17 +331,29 @@ https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 
 
 
-
-
-
-
-
 #EXTINF:-1 tvg-id="SCTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1634025439/01gpfcx6hat3srcj3xsj8nhy9q.png" group-title="Indonesia Channels",SCTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
 https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 
+
+_______
+🔴 SCTV
+
+#EXTINF:-1 group-title="Indonesia Channels"  tvg-logo="https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1634025439/01gpfcx6hat3srcj3xsj8nhy9q.png",SCTV_SPORT (AUTO)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
+
+____________________________
 
 
 
@@ -335,7 +399,27 @@ https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
 #EXTINF:-1 group-title="Indonesia Channels" tvg-id="iNews.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/518/59518-SNAPSHOT-m.png",iNews
 https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
 
+_____________🔴 VIDIO _______________
 
+_________
+INDOSIAR
+
+#EXTINF:-1 group-title="Indonesia Channels"  tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174be4f342858e9/295eb53a7aa04fbca2eeb58a3fab1f2f.png",INDOSIAR_SPORT (AUTO)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
+
+
+
+
+🔴INDOSIAR (NORMAL)
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174be4f342858e9/295eb53a7aa04fbca2eeb58a3fab1f2f.png" group-title="Indonesia Channels",Indosiar  
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -355,7 +439,17 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19486&type=drm
-######https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19486&type=dash
+###https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19486&type=dash
+
+
+
+
+#EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174be4f342858e9/295eb53a7aa04fbca2eeb58a3fab1f2f.png", LIGA BRI (A) - Super League (TERSEDIA SAAT LIVE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=205&type=drm
+###https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=205&type=dash
+
 
 
 
@@ -363,7 +457,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19354&type=drm
-https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19354&type=dash
+####https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19354&type=dash
 
 
 
@@ -462,12 +556,10 @@ https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 ____ MOJI LIVE ____
 
 
-#EXTINF:-1 group-logo="https://thumbor.prod.vidiocdn.com/2fcK2Yn5-6El6-nRsHb_1b5rhDQ=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a19694.jpg" group-title="Indonesia Channels" tvg-logo="https://thumbor.prod.vidiocdn.com/2fcK2Yn5-6El6-nRsHb_1b5rhDQ=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a19694.jpg" ch-number="1",MOJI _ SPORTS FHD
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:http-reconnect=true
-http://103.179.182.117:6768/hls/50/50.m3u8
+#EXTINF:-1 tvg-id="eVENT" tvg-name="Event" group-title="Indonesia Channels" tvg-logo="https://thumbor.prod.vidiocdn.com/2fcK2Yn5-6El6-nRsHb_1b5rhDQ=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a19694.jpg",MOJI_SPORT (FHD)
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli8.m3u8
+
+######http://103.179.182.117:6768/hls/50/50.m3u8
 
 
 ____________________
@@ -527,6 +619,375 @@ https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
 
 
+
+==================================================📁LIVE / EVENT LOKAL==================================================
+
+
+______
+BRI (A)
+
+#EXTINF:-1 group-title="📁LIVE / EVENT LOKAL" tvg-logo="https://thumbor.prod.vidiocdn.com/1yUx9ULvuSMX8kkdqgJMJ4f-Slg=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19354/bri-super-league-7ef0b7.jpg", LIGA BRI (A1) - Super League (TERSEDIA SAAT LIVE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=205&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=205&type=dash
+
+
+
+#EXTINF:-1 group-title="📁LIVE / EVENT LOKAL" tvg-logo="https://thumbor.prod.vidiocdn.com/1yUx9ULvuSMX8kkdqgJMJ4f-Slg=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19354/bri-super-league-7ef0b7.jpg",LIGA BRI A (A2) - Super League (TERSEDIA SAAT LIVE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19354&type=drm
+###https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19354&type=dash
+
+
+#EXTINF:-1 group-title="📁LIVE / EVENT LOKAL" tvg-logo="https://thumbor.prod.vidiocdn.com/1yUx9ULvuSMX8kkdqgJMJ4f-Slg=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19354/bri-super-league-7ef0b7.jpg",LIGA BRI (A2) - Super League (TERSEDIA SAAT LIVE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19355&type=drm
+###https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19355&type=dash
+
+
+#EXTINF:-1 group-title="📁LIVE / EVENT LOKAL" tvg-logo="https://thumbor.prod.vidiocdn.com/gpLEtMmn4-RluMfGMp1_7MVJPTM=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19584/pegadaian-championship-3980ec.jpg",(22 Sep 2025 15:15 WIB) Persikad vs Sriwijaya FC - Pegadaian Championship
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19542&type=drm
+###https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19542&type=dash
+
+#EXTINF:-1 group-title="#EXTINF:-1 group-title="📁LIVE / EVENT LOKAL" tvg-logo="https://thumbor.prod.vidiocdn.com/1yUx9ULvuSMX8kkdqgJMJ4f-Slg=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19354/bri-super-league-7ef0b7.jpg",(22 Sep 2025 18:35 WIB) Borneo FC Samarinda vs PERSIS - BRI Super League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=205&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=205&type=dash
+
+
+#EXTINF:-1 group-title="📁LIVE / EVENT LOKAL" tvg-logo="https://thumbor.prod.vidiocdn.com/gpLEtMmn4-RluMfGMp1_7MVJPTM=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19584/pegadaian-championship-3980ec.jpg",(22 Sep 2025 18:52 WIB) Sumsel United vs Persiraja Banda Aceh - Pegadaian Championship
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19543&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19543&type=dash
+
+
+_____
+BRI 1)
+
+#EXTINF:-1 group-title="📁LIVE / EVENT LOKAL" tvg-logo="https://thumbor.prod.vidiocdn.com/1yUx9ULvuSMX8kkdqgJMJ4f-Slg=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19354/bri-super-league-7ef0b7.jpg", LIGA BRI s1 - Super League (TERSEDIA SAAT LIVE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19354&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19354&type=dash
+
+
+
+___
+Bri 2)
+
+#EXTINF:-1 group-title="📁LIVE / EVENT LOKAL" tvg-logo="https://thumbor.prod.vidiocdn.com/1yUx9ULvuSMX8kkdqgJMJ4f-Slg=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19354/bri-super-league-7ef0b7.jpg",INDOSIAR auto s2- BRI Super League (TERSEDIA SAAT LIVE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19354&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19354&type=dash
+
+____
+pegadaian1)
+
+#EXTINF:-1 group-title="📁LIVE / EVENT LOKAL" tvg-logo="https://thumbor.prod.vidiocdn.com/gpLEtMmn4-RluMfGMp1_7MVJPTM=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19584/pegadaian-championship-3980ec.jpg", LIGA PEGADAIAN s1 - Pegadaian Championship (TERSEDIA SAAT LIVE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19543&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19543&type=dash
+
+
+_____
+pegadaian 2)
+
+#EXTINF:-1 group-title="📁LIVE / EVENT LOKAL" tvg-logo="https://thumbor.prod.vidiocdn.com/gpLEtMmn4-RluMfGMp1_7MVJPTM=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19584/pegadaian-championship-3980ec.jpg", LIGA PEGADAIAN s2 - Pegadaian Championship (TERSEDIA SAAT LIVE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19542&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19542&type=dash
+
+
+______
+🔴iki nyala🔴
+
+#EXTINF:-1 group-title="📁LIVE / EVENT LOKAL" tvg-logo="https://cdn.grid.id/crop/19x33:732x380/x/photo/2025/09/02/screenshot-2025-09-02-180343png-20250902060409.png",Kualifikasi Piala Asia U-23 2026 (B)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
+
+
+
+#EXTINF:-1 group-title="📁LIVE / EVENT LOKAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO7Mr7LW17UbhHIRzPNaZIMZrEvRA2pOdZBBwfTKkE7KM_3s-l7MLZLQZX&s=10", AFC U-23 Asian Cup (TERSEDIA SAAT LIVE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19486&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19486&type=dash
+
+
+
+#EXTINF:-1 group-title="📁LIVE / EVENT LOKAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaYvAdYXz6gsJMrf12wi7a4YuDP85y292lbc8QQCju4sEzI9ARyNrLa1M&s=10",AFC U-23 Asian Cup 2026 (TERSEDIA SAAT LIVE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19486&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19486&type=dash
+
+
+
+#EXTINF:-1 group-title="📁LIVE / EVENT LOKAL" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174be4f342858e9/295eb53a7aa04fbca2eeb58a3fab1f2f.png", INDOSIAR_SPORT  (TERSEDIA SAAT LIVE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19354&type=drm
+https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19354&type=dash
+
+
+
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="📁LIVE / EVENT LOKAL" tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/720x0/webp/photo/2025/08/11/3017177497.jpg" ch-number="1",INDOSIAR_AUTO (TERSEDIA SAAT LIVE)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=19367&type=drm
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+https://seprai.jasoncreak8.workers.dev/play.mpd?id=19367&type=dash
+
+
+
+#EXTINF:-1 group-title="📁LIVE / EVENT LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1280px-Indosiar_2015.svg.png", INDOSIAR_FHD (TERSEDIA SAAT LIVE)
+http://filex.me:8080/live/@B1gM0/qsavC6NPSm/302264.ts
+
+
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1280px-Indosiar_2015.svg.png" group-title="📁LIVE / EVENT LOKAL",INDOSIAR_SD (TERSEDIA SAAT LIVE)
+#EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
+https://gaje0525.edgemaxcdn.org/live/m5l1/playlist.m3u8
+
+
+
+
+
+
+🔴🔴🔴🔴🔴__________ – ID LOKAL VIP / FHD – ____________🔴🔴🔴🔴🔴
+
+====================📁 LOKAL INDO VIP (FHD)====================
+
+
+----
+🔴INDOSIAR
+
+#EXTINF:-1 group-logo="https://i.ibb.co.com/c8hKTkN/INDOSIAR.png" group-title="📁 LOKAL INDO VIP (FHD)" tvg-logo="https://i.ibb.co.com/c8hKTkN/INDOSIAR.png" ch-number="1", INDOSIAR
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+###http://103.179.182.117:6768/hls/56/56.m3u8
+
+
+___
+🔴RCTI
+
+#EXTINF:-1 group-logo="https://i.ibb.co.com/bBsDyTs/RCTI.png" group-title="📁 LOKAL INDO VIP (FHD)" tvg-logo="https://i.ibb.co.com/bBsDyTs/RCTI.png" ch-number="1", RCTI
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+###http://103.179.182.117:6768/hls/51/51.m3u8
+
+
+____
+🔴ANTV
+
+#EXTINF:-1 group-logo="https://i.ibb.co.com/CVmY3Rh/ANTV.png" group-title="📁 LOKAL INDO VIP (FHD)" tvg-logo="https://i.ibb.co.com/CVmY3Rh/ANTV.png" ch-number="1", ANTV
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+###http://103.179.182.117:6768/hls/45/45.m3u8
+
+
+____
+🔴TRANS 7
+
+#EXTINF:-1 group-logo="https://i.ibb.co.com/RPYZ0Ln/TRANS7.png" group-title="📁 LOKAL INDO VIP (FHD)" tvg-logo="https://i.ibb.co.com/RPYZ0Ln/TRANS7.png" ch-number="1", TRANS 7
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+###http://103.179.182.117:6768/hls/42/42.m3u8
+
+
+____
+🔴SCTV
+
+#EXTINF:-1 group-logo="https://i.ibb.co.com/tXJvsJQ/SCTV.png" group-title="📁 LOKAL INDO VIP (FHD)" tvg-logo="https://i.ibb.co.com/tXJvsJQ/SCTV.png" ch-number="1", SCTV
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+###http://103.179.182.117:6768/hls/55/55.m3u8
+
+
+_____
+🔴TRANS TV
+
+#EXTINF:-1 group-logo="https://i.ibb.co.com/0fgvHSK/TRANSTV.png" group-title="📁 LOKAL INDO VIP (FHD)" tvg-logo="https://i.ibb.co.com/0fgvHSK/TRANSTV.png" ch-number="1", TRANS TV
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+###http://103.179.182.117:6768/hls/43/43.m3u8
+
+
+
+_____
+🔴GTV
+
+#EXTINF:-1 group-logo="https://i.ibb.co.com/P9ZbzDW/GTV.png" group-title="📁 LOKAL INDO VIP (FHD)" tvg-logo="https://i.ibb.co.com/P9ZbzDW/GTV.png" ch-number="1", GTV
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+###http://103.179.182.117:6768/hls/57/57.m3u8
+
+
+______
+🔴MOJI TV
+
+#EXTINF:-1 group-logo="https://i.ibb.co.com/yNK0TD1/MOJI.png" group-title="📁 LOKAL INDO VIP (FHD)" tvg-logo="https://i.ibb.co.com/yNK0TD1/MOJI.png" ch-number="1", MOJI TV
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+###http://103.179.182.117:6768/hls/50/50.m3u8
+
+
+_____
+🔴TV ONE
+
+#EXTINF:-1 group-logo="https://i.ibb.co.com/M7Ykhrs/TVONE.png" group-title="📁 LOKAL INDO VIP (FHD)" tvg-logo="https://i.ibb.co.com/M7Ykhrs/TVONE.png" ch-number="1", TVONE
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+###http://103.179.182.117:6768/hls/46/46.m3u8
+
+____
+🔴MNC TV
+
+#EXTINF:-1 group-logo="https://i.ibb.co.com/kXQCRQx/MNC.png" group-title="📁 LOKAL INDO VIP (FHD)" tvg-logo="https://i.ibb.co.com/kXQCRQx/MNC.png" ch-number="1", MNCTV
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+###http://103.179.182.117:6768/hls/54/54.m3u8
+
+
+____
+🔴GARUDA TV
+
+#EXTINF:-1 group-logo="https://i.ibb.co.com/2cMqMjJ/GARUDA.png" group-title="📁 LOKAL INDO VIP (FHD)" tvg-logo="https://i.ibb.co.com/2cMqMjJ/GARUDA.png" ch-number="1", GARUDA TV
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+###http://103.179.182.117:6768/hls/11/11.m3u8
+
+
+___
+🔴INEWS TV
+
+#EXTINF:-1 group-logo="https://i.ibb.co.com/xfdbFZP/INEWS.png" group-title="📁 LOKAL INDO VIP (FHD)" tvg-logo="https://i.ibb.co.com/xfdbFZP/INEWS.png" ch-number="1", INEWS TV
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+###http://103.179.182.117:6768/hls/52/52.m3u8
+
+
+
+______
+🔴MENTARI TV
+
+#EXTINF:-1 group-logo="https://i.ibb.co.com/3vqch04/MENTARI.png" group-title="📁 LOKAL INDO VIP (FHD)" tvg-logo="https://i.ibb.co.com/3vqch04/MENTARI.png" ch-number="1", MENTARI TV
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+###http://103.179.182.117:6768/hls/48/48.m3u8
+
+_______
+🔴METRO TV
+
+#EXTINF:-1 group-logo="https://i.ibb.co.com/pPHpZf8/METROTV.png" group-title="📁 LOKAL INDO VIP (FHD)" tvg-logo="https://i.ibb.co.com/pPHpZf8/METROTV.png" ch-number="1", METRO TV
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+###http://103.179.182.117:6768/hls/19/19.m3u8
+
+_______
+🔴CNN TV
+
+#EXTINF:-1 group-logo="https://i.ibb.co.com/g3QcVg0/CNN.png" group-title="📁 LOKAL INDO VIP (FHD)" tvg-logo="https://i.ibb.co.com/g3QcVg0/CNN.png" ch-number="1", CNN TV
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+###http://103.179.182.117:6768/hls/59/59.m3u8
+
+_______
+🔴CNBC TV
+
+#EXTINF:-1 group-logo="https://i.ibb.co.com/cxpj0wY/CNBC.png" group-title="📁 LOKAL INDO VIP (FHD)" tvg-logo="https://i.ibb.co.com/cxpj0wY/CNBC.png" ch-number="1", CNBC TV
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+###http://103.179.182.117:6768/hls/58/58.m3u8
+
+
+_______
+🔴KOMPAS TV
+
+#EXTINF:-1 group-logo="https://i.ibb.co.com/r6Dfk5W/KOMPASTV.png" group-title="📁 LOKAL INDO VIP (FHD)" tvg-logo="https://i.ibb.co.com/r6Dfk5W/KOMPASTV.png" ch-number="1", KOMPAS TV
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+####http://103.179.182.117:6768/hls/53/53.m3u8
+
+
+_______
+🔴VTV
+
+#EXTINF:-1 group-logo="https://i.ibb.co.com/nCsWg2P/VTV.png" group-title="📁 LOKAL INDO VIP (FHD)" tvg-logo="https://i.ibb.co.com/nCsWg2P/VTV.png" ch-number="1", VTV
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+###http://103.179.182.117:6768/hls/47/47.m3u8
+
+_______
+🔴NUSANTARA TV
+
+#EXTINF:-1 tvg-id="26" tvg-logo="https://i.ibb.co.com/YdvzZ4L/NUSANTARATV.png" group-title="📁 LOKAL INDO VIP (FHD)", NUSANTARA TV
+###https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+
+
+________
+🔴MAGNA TV
+
+#EXTINF:-1 tvg-id="28" tvg-logo="https://i.ibb.co.com/5MMkxkt/MAGNACHANNEL.png" group-title="📁 LOKAL INDO VIP (FHD)",MAGNA TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+###https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_sleng.m3u8
+
+____
+🔴TVRI
+
+#EXTINF:-1 group-logo="https://i.ibb.co.com/frZjJ7z/TVRI.png" group-title="📁 LOKAL INDO VIP (FHD)" tvg-logo="https://i.ibb.co.com/frZjJ7z/TVRI.png" ch-number="1", TVRI
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+###http://103.179.182.117:6768/hls/63/63.m3u8
 
 
 
@@ -754,6 +1215,14 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
 
 
+_______
+FIFA TV
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ae/f0/79/aef0797e1e430ea6ced8baad14a32356.jpg" group-title="SPORTS",FIFA CHANNEL
+https://f7ccf7fc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXB0X0ZJRkFQbHVzUG9ydHVndWVzZV9ITFM/playlist.m3u8
+
+
+
 __________________
 DAZN TV
 
@@ -837,69 +1306,6 @@ https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
 
 ________
 
-
-_______
-SONY SPORT
-
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png" tvg-id="sony-ten-1" tvg-name="Sony Sports Ten 1" , Sony Sports Ten 1
-https://tataplay.slivcdn.com/hls/live/2011739/TEN1SD/master.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png" tvg-id="sony-ten-2" tvg-name="Sony Sports Ten 2" , Sony Sports Ten 2
-https://tataplay.slivcdn.com/hls/live/2020590/TEN2SD/master.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_SD_Logo_CLR.png" tvg-id="sony-ten-3" tvg-name="Sony Sports Ten 3" , Sony Sports Ten 3
-https://tataplay.slivcdn.com/hls/live/2020592/TEN3SD/master.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" tvg-id="sony-ten-4" tvg-name="Sony Sports Ten 4" , Sony Sports Ten 4
-https://tataplay.slivcdn.com/hls/live/2020437/ten4sd/master.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" tvg-id="sony-ten-5" tvg-name="Sony Sports Ten 5" , Sony Sports Ten 5
-https://tataplay.slivcdn.com/hls/live/2020594/SONYSIXSD/master.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" tvg-id="sony-ten-1-hd" tvg-name="Sony Sports Ten 1 HD" , Sony Sports Ten 1 HD
-https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" tvg-id="sony-ten-2-hd" tvg-name="Sony Sports Ten 2 HD" , Sony Sports Ten 2 HD
-https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" tvg-id="sony-ten-3-hd" tvg-name="Sony Sports Ten 3 HD" , Sony Sports Ten 3 HD
-https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" tvg-id="sony-ten-4-hd" tvg-name="Sony Sports Ten 4 HD" , Sony Sports Ten 4 HD
-https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD" , Sony Sports Ten 5 HD
-https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
-
-
-
-
-_________________
-ONE SPORT
-
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2-e6JN1iocQj8_f6bi_xX5bXN3OKNTjGoiaJzudwDVwhHgkaq-7-uKC2HSCvjVkEW1hXi6eVgtPfDr5P5lVY3STpYpulKFNac8PaU00peSY69hhOvN7gF3zYIsL6VYEMECzi9aysAm7JOqJ8lfZIKKuCs_9me7VCU9H1VGI19BNCQoRz3T0zJK9tvFwPP/s700/ONE%20SPORTS%20HD.png" group-title="SPORTS", ONE SPORTS HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=53c3bf2eba574f639aa21f2d4409ff11:3de28411cf08a64ea935b9578f6d0edd
-https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_onesports_hd.mpd
-
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTfs0jCRr_gY8LZpS1txmy8PXnvM9D64OxiyZNjVaLHatBahCArLiUeDe3kDwnWGlkPrc3Re6uH-ebMjJwTrhn0aqT4kMXQ6sbld8yBwE1URPpvOawmAAR2-PQ8Odwf_KMGENxEsQjAmmZGp_6AGTh14B3Ep8IK7giF3LAmyZVrFUFcAi-wEbdCb2XgR8t/s700/ONE%20SPORTS+.png" group-title="SPORTS", ONE SPORTS+
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=322d06e9326f4753a7ec0908030c13d8:1e3e0ca32d421fbfec86feced0efefda
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_onesportsplus_hd1.mpd
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWXsASR-STL_oWcObtByBxSe8B-qqIAItgGxaw87-xvdLA9tSJ8sH3RbBVN06iVeMeKXSN5aRJEQwdzRc5PHGTa7nV7VWtz9mjLWaezXByqDl_q_O1ruKTHgCcyyaFJ5N5xk0_kQWf080CpugwbWRrkxm6HpzbdVKI8_JS5mAFT_MA-IukmmUCbZt7TwYx/s700/NBA%20PHILIPPINES.png", group-title="SPORTS", NBA PHILIPPINES
-#EXTVLCOPT:http-user-agent=ExoPlayerLib
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f36eed9e95f140fabbc88a08abbeafff:0125600d0eb13359c28bdab4a2ebe75a
-https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/pl_nba.mpd
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNQHb_SW8jZgFGKZAezKMFyUhAKzR3YAXz-ByoTokzuuUqy7cNWtBYLKrzBW9vSzGODiieRnHQUofSIMd_QREEaQNnx98d0OAML2sDkptkzmUazauE-oFUmlHU131Ev4wbAf0zd2qgHc3R-ZwchsX7YTfEp-HnxZqwspdyWosc1xcJWKSrmjLTQo-uNPtj/s700/REDBULL%20TV.png" group-title="SPORTS",REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
@@ -1074,9 +1480,6 @@ https://ssc-extra-2-enc.edgenextcdn.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/
 https://ssc-extra3-enc.edgenextcdn.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/index.mpd
 
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyoxrBby1Ra-6h8Jh08FboUyoejAFytXnelh9rq128mWoGY9JnP3t6__6lhfXG94UIYSIKx78H8oYbqbNuJ9dipee6RrK_YfrZ0_WZsM1mzeH6tluUUelLsX7ctPe9j8M0_YuV5A1IlmH-fbzXKWGXb6tqAg2dk0RzsMd7cBzZsSg1RxyAHv7s1QW9zTOV/s700/TEN%20SPORTS%20HD.png" group-title="SPORTS", TEN SPORTS HD
-http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="Lokal" group-title="SPORTS" tvg-logo="https://i.imgur.com/0sNWg54.png" ch-number="92" group-logo="", Sports Connect
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -1085,28 +1488,10 @@ https://origin3.afxp.telemedia.co.za/PremiumFree/sportsconnect/abr_satellitechan
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png" group-title="SPORTS",Star Sports 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
-https://moblive.yuppcdn.net/drm1/smil:starsports2drm.smil/manifest.mpd
-
-
-
-#EXTINF:-1 tvg-logo="https://mobond.yuppcdn.net/peotvgo/320/180/content/common/channel/logos/star-sports-2.png" group-title="SPORTS",Star Sports 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
-https://moblive.yuppcdn.net/drm1/smil:starsports2drm.smil/manifest.mpd
-
-
-
 #EXTINF:-1 tvg-id="Tap Sports.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/TAP_Sports_channel_logo.png" group-title="SPORTS",TAP Sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
-
-
-#EXTINF:-1 tvg-name="PPTV HD" tvg-id="PPTV HD.th" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a0/PPTV_HD_36.png" group-title="SPORTS", PPTV HD
-http://appdootv2.dootvde.com:1935/live/50026_pptv_hd.stream.smil/playlist.m3u8
 
 
 
@@ -1398,6 +1783,15 @@ ________________________________________________________________________________
 #KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18851
 ######https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18851
 
+_____
+🔴 LIVOLI DEVISI UTAMA)
+
+#EXTINF:-1 group-title="▶VOLLEY / EVENT ONLY◀" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThWFpWDH2GRdTHr8rjjFJ-ib1p5w4uCc02J75vwmbPNhoruarX8Ptmq8Rx&s=10", LiVOLI (Divisi Utama 2025)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19488&type=drm
+https://spacetv.my.id/index.mpd?id=19488&type=dash
+
 
 _______
 🔴 VOLI TV
@@ -1409,7 +1803,7 @@ _______
 #EXT-X-MEDIA-SEQUENCE:1
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
-http://103.179.182.117:6768/hls/2/2.m3u8
+#########http://103.179.182.117:6768/hls/2/2.m3u8
 
 
 
@@ -1516,13 +1910,6 @@ https://3gr3uomttgr31hcjtgezdrpjtfisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1
 #EXTVLCOPT:http-connection-timeout=5000
 #EXTVLCOPT:http-reconnect=true
 https://hotlivezz179026907.akainu.xyz/-TBXU3hlSIcXpy2cVbyD8Q/Fv2lucGIbhPi2caWYvF5Lg/1747493404358/live/may6/chunklist.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://thumb.viva.id/vivawisata/1265x711/2025/05/30/683893be07956-vnl-2025_wisata.jpg" group-title="▶VOLLEY / EVENT ONLY◀", VL 4 (POLSAT_TV)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
-http://iptvtree.net:8080/friptv/AwWjvV6QuXDY84xR5meJhk/356
 
 
 
@@ -1739,192 +2126,11 @@ ________________________________________________________________________________
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGWkRFQLuE7uIHdvOKFYn7ifQXGJhfAQovJWpoYV05q-lcVyT2NgdNnnE&s=10" group-title="▶LIGA EROPA◀",EPL 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
-https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd?encoding=segmentBase
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGWkRFQLuE7uIHdvOKFYn7ifQXGJhfAQovJWpoYV05q-lcVyT2NgdNnnE&s=10" group-title="▶LIGA EROPA◀",EPL 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
-https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd?encoding=segmentBase
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGWkRFQLuE7uIHdvOKFYn7ifQXGJhfAQovJWpoYV05q-lcVyT2NgdNnnE&s=10" group-title="▶LIGA EROPA◀",EPL 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
-https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd?encoding=segmentBase
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGWkRFQLuE7uIHdvOKFYn7ifQXGJhfAQovJWpoYV05q-lcVyT2NgdNnnE&s=10" group-title="▶LIGA EROPA◀",EPL 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_SKY_SPORTS_PREMIER_LEAGUE/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGWkRFQLuE7uIHdvOKFYn7ifQXGJhfAQovJWpoYV05q-lcVyT2NgdNnnE&s=10" group-title="▶LIGA EROPA◀",EPL 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://delicate-hall-d108.wirdytv.workers.dev/02_PremierHD1_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGWkRFQLuE7uIHdvOKFYn7ifQXGJhfAQovJWpoYV05q-lcVyT2NgdNnnE&s=10" group-title="▶LIGA EROPA◀",EPL 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://delicate-hall-d108.wirdytv.workers.dev/02_PremierHD2_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGWkRFQLuE7uIHdvOKFYn7ifQXGJhfAQovJWpoYV05q-lcVyT2NgdNnnE&s=10" group-title="▶LIGA EROPA◀",EPL 7
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=333962e3e1383529867a9a0e28a5e5d1:5d3fcbed53749ee622ed0e64f31c1cbf
-https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
-
-================================= LIGA SPANYOL ==================================
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgGGMlvXLvRzZfNTKgCJ2EIoF7ZjtaHUy2tg&s" group-title="▶LIGA EROPA◀",LALIGA 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgGGMlvXLvRzZfNTKgCJ2EIoF7ZjtaHUy2tg&s" group-title="▶LIGA EROPA◀",LALIGA 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#EXTVLCOPT:http-referrer=https://saruman1.tharen.cfd/000/
-https://saruman1.tharen.cfd/puk1/usergenrx0cir27aq.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgGGMlvXLvRzZfNTKgCJ2EIoF7ZjtaHUy2tg&s" group-title="▶LIGA EROPA◀",LALIGA 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-https://wahyu1ptv.pages.dev/DaznLaliga1-HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgGGMlvXLvRzZfNTKgCJ2EIoF7ZjtaHUy2tg&s" group-title="▶LIGA EROPA◀",LALIGA 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://wahyu1ptv.pages.dev/DaznLaliga2-HD.m3u8
-
-================== LIGA JERMAN =================================
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDpyzjp8-aYjDe8F6RkEC7IA7hxb1eEb84Ig&s" group-title="▶LIGA EROPA◀",BUNDESLIGA 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDpyzjp8-aYjDe8F6RkEC7IA7hxb1eEb84Ig&s" group-title="▶LIGA EROPA◀",BUNDESLIGA 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#EXTVLCOPT:http-referrer=https://arwen1.panaka.cfd/000/
-https://arwen1.panaka.cfd/puk2/usergenrnd0clv03fyt.m3u8
-
-===================== LIGA ITALIA =====================
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHT6J47YxWpqQnIj3aQ9kTTAYDymbyD5uFwhvSZ6ZKzBkW71ZT8qWIb7eG&s=10" group-title="▶LIGA EROPA◀",SERIE-A 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=efca93272b9d34f5cf9d8598f43be5ea:55e5fe489e9c18f6c979c3126d4bcfed
-https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHT6J47YxWpqQnIj3aQ9kTTAYDymbyD5uFwhvSZ6ZKzBkW71ZT8qWIb7eG&s=10" group-title="▶LIGA EROPA◀",SERIE-A 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
-https://ssc-1-enc.edgenextcdn.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHT6J47YxWpqQnIj3aQ9kTTAYDymbyD5uFwhvSZ6ZKzBkW71ZT8qWIb7eG&s=10" group-title="▶LIGA EROPA◀",SERIE-A 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8
-
-===================== LIGA CHAMPIONS ====================
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvYXC3fJYgDICZ6jhsJzFdLRFP9yPSagJWlnvQlHbvCWZzqheT9k7rUB7a&s=10" group-title="▶LIGA EROPA◀",UCL&EURO 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvYXC3fJYgDICZ6jhsJzFdLRFP9yPSagJWlnvQlHbvCWZzqheT9k7rUB7a&s=10" group-title="▶LIGA EROPA◀",UCL&EURO 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvYXC3fJYgDICZ6jhsJzFdLRFP9yPSagJWlnvQlHbvCWZzqheT9k7rUB7a&s=10" group-title="▶LIGA EROPA◀",UCL&EURO 3
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=aef1823177ad40199de440504d992ad5:b95c919408eec7663214a9a67af831ba
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/index.mpd
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvYXC3fJYgDICZ6jhsJzFdLRFP9yPSagJWlnvQlHbvCWZzqheT9k7rUB7a&s=10" group-title="▶LIGA EROPA◀",UCL&EURO 4
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
-https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvYXC3fJYgDICZ6jhsJzFdLRFP9yPSagJWlnvQlHbvCWZzqheT9k7rUB7a&s=10" group-title="▶LIGA EROPA◀",UCL&EURO 5
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
-https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvYXC3fJYgDICZ6jhsJzFdLRFP9yPSagJWlnvQlHbvCWZzqheT9k7rUB7a&s=10" group-title="▶LIGA EROPA◀",UCL&EURO 6
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
-https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
-
-
-
-
 
 __________________________________________________________________________________________________________________________________
 
 
 ===========================================SPORTS 2 HD======================================================
-
-
-####EXTINF:-1 group-logo="https://www.seekpng.com/png/detail/246-2464857_information-png-download-info-png.png",YOUTUBE Channel
-#####EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.seekpng.com/png/detail/246-2464857_information-png-download-info-png.png" group-title="SPORTS 2 HD",INFO...!!!
-######https://scontent-cgk2-1.xx.fbcdn.net/o1/v/t2/f2/m69/AQMYkT_iayhlguZ3NTjWep1LdmQclE2g7Crxw1srz11AmweI9vLKAh1R6tBhGiwLwInbhIoPPllBNeNtPuLQebzs.mp4?strext=1&_nc_cat=102&_nc_sid=8bf8fe&_nc_ht=scontent-cgk2-1.xx.fbcdn.net&_nc_ohc=N-3C0sf3Gk0Q7kNvwEoAuSc&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNDgwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6NjYxOTY5OTI2NjY5ODYyLCJ2aV91c2VjYXNlX2lkIjoxMDEyMSwiZHVyYXRpb25fcyI6MzQ0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_zt=28&_nc_rml=0&_nc_eui2=AeEp3jM0Ehd04HvogyzPXOiTv7FcUIotTvm_sVxQii1O-b2g4y63WgR7xLUVID97k2TmEwdyDcgZpBbwSgZzBm7T&oh=00_AfOj7mxOnPlM9247z9hzLyLUzHU1E6MI6dBiFYOhNfmmHA&oe=686836F4
-
-
-
-
-
-#EXTINF:0 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png" group-title="SPORTS 2 HD" tvg-id="001" tvg-name="016-LABURATV", ASTRO ARENA HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
-####https://damp-mouse-75ea.pejan97800.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
-
-
-
-
-#EXTINF:0 tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArena2.png" group-title="SPORTS 2 HD" tvg-id="001" tvg-name="",  ASTRO ARENA 2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
-#####https://damp-mouse-75ea.pejan97800.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
-
-
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png" group-title="SPORTS 2 HD" tvg-id="001" tvg-name="016-LABURATV",ASTRO PREMIER LEAGUE 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f749ab71f227999bfb098f73359aac10:4f15413f7e4767b50c48e19b7f9a2fcc
-######https://damp-mouse-75ea.pejan97800.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/601/default_ott.mpd
-
-
-
-
-#EXTINF:0 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png" group-title="SPORTS 2 HD" tvg-id="001" tvg-name="016-LABURATV", ASTRO ARENA HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
-######https://damp-mouse-75ea.pejan97800.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
 
 
 
@@ -2438,153 +2644,8 @@ https://ssc-extra3-enc.edgenextcdn.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/i
 
 
 
-#EXTINF:-1 group-title="SPORTS 2 HD" tvg-id="TNTSports1.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png",TNT SPORTS 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
-https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
-
-
-
-
-#EXTINF:-1 group-title="SPORTS 2 HD" tvg-id="TNTSports2.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/lzqo991689746090.png",TNT SPORTS 2 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
-https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
-
-
-
-
-#EXTINF:-1 group-title="SPORTS 2 HD" tvg-id="TNTSports3.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/iwotea1701768457.png",TNT SPORTS 3
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
-https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
-
-
-
-
-#EXTINF:-1 group-title="SPORTS 2 HD" tvg-id="TNTSports4.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/81twnr1689746183.png",TNT SPORTS 4
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
-https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
-
-
-
-
-#EXTINF:-1 group-title="SPORTS 2 HD" tvg-id="TNTSports5.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/za5ba01689746204.png",TNT SPORTS 5
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
-https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd
-
-
-
-
-#EXTINF:-1 tvg-id="TSN 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/upsspx1433379567.png" group-title="SPORTS 2 HD",TSN 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://fl1.moveonjoy.com/TSN_1/tracks-v1a1/mono.m3u8
-
-
-
-#EXTINF:-1 tvg-id="TSN 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sutruq1433379787.png" group-title="SPORTS 2 HD",TSN 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://fl1.moveonjoy.com/TSN_2/tracks-v1a1/mono.m3u8
-
-
-
-#EXTINF:-1 tvg-id="TSN 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ssxtux1433380256.png" group-title="SPORTS 2 HD",TSN 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://fl1.moveonjoy.com/TSN_3/tracks-v1a1/mono.m3u8
-
-
-
-#EXTINF:-1 tvg-id="TSN 4" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/yrrvpq1433380019.png" group-title="SPORTS 2 HD",TSN 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://fl1.moveonjoy.com/TSN_4/tracks-v1a1/mono.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="TSN 5" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sytpty1433380112.png/tiny" group-title="SPORTS 2 HD",TSN 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://fl1.moveonjoy.com/TSN_5/tracks-v1a1/mono.m3u8
-
-
-
-
-
-
-#EXTINF:-1 tvg-name="TRUE 5" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/doomovie-epl5.png" group-title="SPORTS 2 HD",TRUE SPORT 5
-https://delicate-hall-d108.wirdytv.workers.dev/02_2sporthd4_720p/chunklist.m3u8
-
-
-
-
 #EXTINF:-1 tvg-name="TVRI SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/58/TVRI_Sport_2017.png" group-title="SPORTS 2 HD",TVRI SPORT
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="SPORTS 2 HD", SONY TEN 4 HD
-https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="sonyten5hd.in" tvg-name="SONY TEN 5 HD" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png" group-title="SPORTS 2 HD",SONY TEN 5 HD
-https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
-
-
-
-#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="Star Sports Select 1 HD" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_1_HD.png" group-title="SPORTS 2 HD",Star Sports Select 1 HD
-http://watchindia.net:8880/live/32612/55103/1070.ts
-
-
-
-#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="Star Sports Select 2 HD" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_2_HD.png" group-title="SPORTS 2 HD",Star Sports Select 2 HD
-http://watchindia.net:8880/live/32612/55103/1071.ts
-
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe3hvPhtrLZ2Uu64rIlRFURWjdy6or4XbUQJyM0BN3TwnyVF3Hyw2tFdT8&s=10" group-title="SPORTS 2 HD",A Sport
-http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/JpNALAJ.png" group-title="SPORTS 2 HD", TVRI SPORT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="TELEMUNDO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSleQJSzgd5zyZKYpguioPIR2xoeWNhLko9GQ&s" group-title="SPORTS 2 HD", TELEMUNDO
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(WSNS)/master.mpd
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/JpNamYP.jpg" group-title="SPORTS 2 HD", W-SPORT
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://op-group1-swiftservehd-1.dens.tv/h/h26/S4/mnf.m3u8
-
 
 
 
@@ -2732,49 +2793,6 @@ http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5
 #EXTINF:-1 tvg-logo="https://iili.io/3EWIMZv.jpg" group-title="SPORTS 2 FHD",DAZN 6
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117753
 
-
-______________________
-POLSAT TV
-
-
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/polsatnews.png" group-title="SPORTS 2 FHD",POLSAT SPORT NEWS
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:47:DE:1D&stream=227284&extension=ts
-
-
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Polsat_Sport_Extra_2021_gradient.svg.png" group-title="SPORTS 2 FHD",POLSAT SPORT EXTRA
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:47:DE:1D&stream=227311&extension=ts
-
-
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Polsat_Sport_Fight.png" group-title="SPORTS 2 FHD",POLSAT SPORT FIGHT
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:47:DE:1D&stream=227310&extension=ts
-
-
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Polsat_Sport_2021_gradient.svg.png" group-title="SPORTS 2 FHD",POLSAT SPORT
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:47:DE:1D&stream=227301&extension=ts
-
-
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Polsat_Sport_Premium1.png" group-title="SPORTS 2 FHD",POLSAT SPORT 1
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:47:DE:1D&stream=227299&extension=ts
-
-
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Polsat_Sport_Premium_2_2021.png" group-title="SPORTS 2 FHD",POLSAT SPORT 2
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:47:DE:1D&stream=227298&extension=ts
-
-
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Polsat_Sport_Premium_3_PPV_2021%20(1).png" group-title="SPORTS 2 FHD",POLSAT SPORT 3
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:47:DE:1D&stream=227297&extension=ts
-
-
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/polsat_sport_premium_4.png" group-title="SPORTS 2 FHD",POLSAT SPORT 4
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:47:DE:1D&stream=227296&extension=ts
-
-
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/polsatpremium5.png" group-title="SPORTS 2 FHD",POLSAT SPORT 5
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:47:DE:1D&stream=227295&extension=ts
-
-
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/polsta_sport_premium_6.png" group-title="SPORTS 2 FHD",POLSAT SPORT 6
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:47:DE:1D&stream=227294&extension=ts
 
 
 ______________________
@@ -3129,222 +3147,6 @@ ______________
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
 
-
-
-
-___________________________________________________________________________________________________________________
-
-
-
-
-=============================WORLD SPORTS===========================================
-
-
-#EXTINF:-1 group-title="WORLD SPORTS" tvg-id="Sony Ten 1" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/SonyTen.png",Sony Ten Sports 1
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
-
-
-
-#EXTINF:-1 group-title="WORLD SPORTS" tvg-id="Sony Ten 2" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/SonyTen.png",Sony Ten Sports 2
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
-
-
-
-#EXTINF:-1 group-title="WORLD SPORTS" tvg-id="Sony Ten 3" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/SonyTen.png",Sony Ten Sports 3
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
-
-
-
-#EXTINF:-1 group-title="WORLD SPORTS" tvg-id="Sony Ten 4" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/SonyTen.png",Sony Ten Sports 4
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
-
-
-
-#EXTINF:-1 group-title="WORLD SPORTS" tvg-id="Sony Ten 5" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/SonyTen.png",Sony Ten Sports 5
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ66w8-lX_a7iXlJwbkMjAplw5zAwRv_sC0aA&s" group-title="WORLD SPORTS", ABU DHABI SPORTS PREMIUM 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eb5a3a48f3e191a00e3ac1e2d470c491:2c8b7198563527e524d66628c092ef1f
-https://uselector.cdn.intigral-ott.net/ADSP1/ADSP1.isml/manifest.mpd
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ66w8-lX_a7iXlJwbkMjAplw5zAwRv_sC0aA&s" group-title="WORLD SPORTS", ABU DHABI SPORTS PREMIUM 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=efca93272b9d34f5cf9d8598f43be5ea:55e5fe489e9c18f6c979c3126d4bcfed
-https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
-
-
-
-#EXTINF:-1 group-title="WORLD SPORTS" tvg-id="SSC 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTphrj_nJR52FntrO9vKVlGndFkHzwTZNTWOt7RyL7C05vB6B9CgRMTEjNN&s=10",SSC 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
-https://ssc-1-enc.edgenextcdn.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
-
-
-
-
-#EXTINF:-1 group-title="WORLD SPORTS" tvg-id="SSC 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTphrj_nJR52FntrO9vKVlGndFkHzwTZNTWOt7RyL7C05vB6B9CgRMTEjNN&s=10",SSC 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8bcfc55359e24bd7ad1c5560a96ddd3c:b5dcf721ab522af92a9d3bf0bd55b596
-https://ssc-2-enc.edgenextcdn.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd
-
-
-
-
-#EXTINF:-1 group-title="WORLD SPORTS" tvg-id="SSC 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTphrj_nJR52FntrO9vKVlGndFkHzwTZNTWOt7RyL7C05vB6B9CgRMTEjNN&s=10",SSC 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7de5dd08ad8041d586c2f16ccc9490a1:5e1503f3398b34f5099933fedab847ef
-https://ssc-3-enc.edgenextcdn.net/out/v1/42e86125555242aaa2a12056832e7814/index.mpd
-
-
-
-#EXTINF:-1 group-title="WORLD SPORTS" tvg-id="SSC 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTphrj_nJR52FntrO9vKVlGndFkHzwTZNTWOt7RyL7C05vB6B9CgRMTEjNN&s=10",SSC 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5c672f6b85a94638872d0214f7806ed4:bf8756fbb866ee2d5c701c2289dd8de3
-https://ssc-4-enc.edgenextcdn.net/out/v1/5267ea5772874b0db24559d643eaad93/index.mpd
-
-
-
-#EXTINF:-1 group-title="WORLD SPORTS" tvg-id="SSC 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTphrj_nJR52FntrO9vKVlGndFkHzwTZNTWOt7RyL7C05vB6B9CgRMTEjNN&s=10",SSC 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c88b512b17ab4f6cb09eb0ff4a1056ed:adc08ee1c20a734972a55c9aebbd1888
-https://ssc-5-enc.edgenextcdn.net/out/v1/99289eac5a7b4319905da595afbd792b/index.mpd
-
-
-
-#EXTINF:-1 group-title="WORLD SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/2/2e/Dubai_Sports_logo.png",DUBAI SPORTS 1
-https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8
-
-
-
-#EXTINF:-1 group-title="WORLD SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/2/2e/Dubai_Sports_logo.png",DUBAI SPORTS 2
-https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/master.m3u8
-
-
-
-#EXTINF:-1 group-title="WORLD SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/2/2e/Dubai_Sports_logo.png",DUBAI SPORTS 3
-https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/master.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ71MkMPij7hVfcep-ZjWPFrefLMhTyZfM50Q&s group-title="WORLD SPORTS", F1vsMotoGP 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8bcfc55359e24bd7ad1c5560a96ddd3c:b5dcf721ab522af92a9d3bf0bd55b596
-https://ssc-2-enc.edgenextcdn.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd
-
-
-
-#EXTINF:-1 tvg-id="TNTSports5.uk" tvg-logo="https://cms.cignal.tv/Upload/Images/NBA-TV-Philippines.jpg" group-title="WORLD SPORTS",🏀 NBA TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f36eed9e95f140fabbc88a08abbeafff:0125600d0eb13359c28bdab4a2ebe75a
-https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/pl_nba.mpd
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqPo7jYpSQ5YEEpFTHrSr0Yip1Bz11Bg4QbzaYTrU3sPdYiy_KyfVXHOs&s=10" group-title="WORLD SPORTS", HUBSPORT PREMIER 1
-https://raw.githubusercontent.com/B-inalm3u-Custom/Asia-New-Sport/B-inal22/HubsportPL1.m3u8
-
-
-
-
-
-#EXTINF:-1 group-title="WORLD SPORTS" tvg-id="realmadridtv.es" tvg-logo="https://upload.wikimedia.org/wikipedia/sco/thumb/5/56/Real_Madrid_CF.svg/732px-Real_Madrid_CF.svg.png",Real Madrid TV
-#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8?hdnea=exp=1653452799~acl=/*~hmac=6fa983776826e1224ab4c19996ce92f00a1ad234617b07fd8a398160d72c19e0
-
-
-
-#EXTINF:-1   tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI_wRqk3EdUe6ZMBMoQ2NingjbkGWoDjylc0zjJ7CqKZyYRJzat9VXUrk&s=10" group-title="WORLD SPORTS",Strongman Champion League
-https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_StrongmanChampionsLeague/e21d95be-bbb1-442c-bd84-71813dc764ce/0.m3u8
-
-
-
-#EXTINF:-1 tvg-id="WWENetwork.us" tvg-name="WWE NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/WWENetworkLogo.png" group-title="WORLD SPORTS", WWE NETWORK 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00208c93f4358213b52220898b962385:8ae6063167228e350dd132d4a1573102
-http://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd
-
-
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/30/75/f9/3075f9b57eaca96a38697c8700c180be.jpg" group-title="WORLD SPORTS", SMACK DOWN
-https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/79f2/e48bus3w2osa5y65g.jpg", group-title="WORLD SPORTS" tvg-id="OneChampionshipTv.id" ch-number="30" tvg-name="One Championship tv",One Championship tv
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/668c5d3bfd9eb2000882bb50/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
- 
-
-
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/13eb/nt4mzkjfx3r7i6i5g.jpg" group-title="WORLD SPORTS" tvg-id="unifisports.id" ch-number="31" tvg-name="Unifi Sports",Unifi Sports UFC
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cbb673fb120882354735ed57eeb05b4c:fe003f7aeec40eb65d20b14edfda2a86
-https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsr29hAOnzGMTBC80PLQNXv21KRdb2v2jSiw&s" group-title="WORLD SPORTS" , W-SPORT auto
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://op-group1-swiftservehd-1.dens.tv/h/h26/S4/mnf.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Sukan_RTM_1_April.png/200px-Sukan_RTM_1_April.png" group-title="WORLD SPORTS",RTM Sukan 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/segment_ua194x9ch_ctvideo_cfm4s_ridp0va0br4500000_cs87121008000_mpd.m4s
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
-
-
-
-#EXTINF:-1 tvg-logo="https://trendrod.wordpress.com/wp-content/uploads/2024/03/28_20240306_161134_00016291498138492222936.png?w=1200" group-title="WORLD SPORTS", One Sports HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=53c3bf2eba574f639aa21f2d4409ff11:3de28411cf08a64ea935b9578f6d0edd
-https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_onesports_hd.mpd
-
-
-
-#EXTINF:-1  tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A696C-C9E1-11EC-9D64-0242AC120002//0-16x9.jpg?width=412" group-title="WORLD SPORTS", ONE SPORT+
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=322d06e9326f4753a7ec0908030c13d8:1e3e0ca32d421fbfec86feced0efefda
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_onesportsplus_hd1.mpd
-
-
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlgfZ1y0tMkAJx1r1l8RRLFEQPB1ngcjtcqKd0beD2qN7IlrcP2bNcDR_i&s=10" group-title="WORLD SPORTS",BOXING 1
-https://1180885077.rsc.cdn77.org/HLS/BOXINGTV.m3u8
-
-
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlgfZ1y0tMkAJx1r1l8RRLFEQPB1ngcjtcqKd0beD2qN7IlrcP2bNcDR_i&s=10" group-title="WORLD SPORTS",BOXING 2
-https://stitcher.pluto.tv/stitch/hls/channel/64df7ab4dfa32400083c517blivestitch/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f9f2b24b-6a97-11ef-9ed7-d66fb14cb385&profilesFromStream=true
-
-
-
-_____________________________________________________________________________________________________________________________________________________________________________
 
 
 
@@ -5434,6 +5236,148 @@ ________________________________________________________________________________
 
 <======================= Internet Radio ===============================>
 
+
+
+
+#EXTINF:-1 group-title="Internet Radio" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/RadioIndonesia.png",RADIO SUARA SONETA
+https://a2.siar.us/listen/suarasoneta/radio.mp3
+
+#EXTINF:-1 group-title="Internet Radio" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/RadioIndonesia.png",PERSADA FM LAMONGAN
+https://stream-175.zeno.fm/c5zdk2rwm0hvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjNXpkazJyd20waHZ2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IllQYUMwWDB5U2xHeThITnUyMkhyRnciLCJpYXQiOjE3NTE1ODQ5NDEsImV4cCI6MTc1MTU4NTAwMX0.1o7yEYbHvVUnzE-y601omFaecucMt3QJheBDAiaxC7k
+
+#EXTINF:-1 group-title="Internet Radio" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/RadioIndonesia.png",PRAMESWARA FM LAMONGAN
+https://radiocast.my.id/proxy/prameswarafm/stream
+
+#EXTINF:-1 group-title="Internet Radio" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/RadioIndonesia.png",RONGGOHADI FM LAMONGAN
+https://c3.siar.us/proxy/ronggohadifm/stream
+
+#EXTINF:-1 group-title="Internet Radio" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/RadioIndonesia.png",PRADYA SUARA FM TUBAN
+http://pu.klikhost.com:8012/stream
+
+#EXTINF:-1 group-title="Internet Radio" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/RadioIndonesia.png",SIFM TUBAN
+https://i.klikhost.com/8184/stream
+
+#EXTINF:-1 group-title="Internet Radio" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/RadioIndonesia.png",STAR FM PASURUAN
+http://radio.dnetprovider.id:8000/StarFM
+
+#EXTINF:-1 group-title="Internet Radio" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/RadioIndonesia.png",NUANSA FM BOJONEGORO
+https://i.klikhost.com/7162/;radio.nsv
+
+#EXTINF:-1 group-title="Internet Radio" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/RadioIndonesia.png",NUR FM REMBANG
+http://sci.streamingmurah.com:8002/live
+
+#EXTINF:-1 group-title="Internet Radio" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/RadioIndonesia.png",CBFM REMBANG
+http://i.klikhost.com:8358/stream
+
+#EXTINF:-1 group-title="Internet Radio" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/RadioIndonesia.png",R2B REMBANG
+https://i.klikhost.com/8892/;
+
+#EXTINF:-1 group-title="Internet Radio" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/RadioIndonesia.png",HARBOS FM
+https://uk5freenew.listen2myradio.com/live.mp3?typeportmount=s1_6857_stream_547131798
+
+#EXTINF:-1 group-title="Internet Radio" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/RadioIndonesia.png",PAS FM PATI
+https://ssg.streamingmurah.com:8886/mp3
+
+#EXTINF:-1 group-title="Internet Radio" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/RadioIndonesia.png",JOSS FM NGANJUK
+https://static-s7.xajist.com/sslstream/8198
+
+#EXTINF:-1 group-title="Internet Radio" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/RadioIndonesia.png",SUARA GIRI FM
+http://streaming.girifm.com:8010/;stream
+
+#EXTINF:-1 group-title="Internet Radio" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/RadioIndonesia.png",WIJAYA FM
+http://wijayafm.onlivestreaming.net:9880/103,50%20Wijayaaaaaaa
+
+#EXTINF:-1 group-title="Internet Radio" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/RadioIndonesia.png",SWARA SEMARANG
+https://server.radioimeldafm.co.id/listen/swara_semarang/swarasemarang
+
+#EXTINF:-1 group-title="Internet Radio" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/RadioIndonesia.png",GAJAHMADA FM
+https://server.radioimeldafm.co.id/listen/gajahmadafm/gajahmadafm
+
+#EXTINF:-1 group-title="Internet Radio" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/RadioIndonesia.png",IMELDA FM
+https://server.radioimeldafm.co.id:8030/imeldafm
+
+#EXTINF:-1 group-title="Internet Radio" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/RadioIndonesia.png",WALI SONGO FM
+http://i.klikhost.net/8092/;
+
+#EXTINF:-1 group-title="Internet Radio" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/RadioIndonesia.png",R-LISA FM
+https://bit.ly/49x6Xkc
+
+#EXTINF:-1 group-title="Internet Radio" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/RadioIndonesia.png",SUARA KOTA WALI DEMAK
+https://a2.siar.us/listen/radiodemak/stream
+
+#EXTINF:-1 group-title="Internet Radio" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/RadioIndonesia.png",SUARA JUWANA
+http://i.klikhost.com:9014/;stream.nsv
+
+#EXTINF:-1 group-title="Internet Radio" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/RadioIndonesia.png",GAGAK RIMANG BLORA
+http://i.klikhost.com:8206/;radio.mp3
+
+#EXTINF:-1 group-title="Internet Radio" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/RadioIndonesia.png",KARTINI JEPARA
+http://103.167.114.23:8000/;radio.nsv
+
+#EXTINF:-1 group-title="Internet Radio" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/RadioIndonesia.png",DNA MANIA JEPARA
+https://a6.siar.us:8000/stream
+
+#EXTINF:-1 group-title="Internet Radio" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/RadioIndonesia.png",TOP FM  BUMI AYU BREBES
+http://streaming.topfm951.net:9510/stream
+
+#EXTINF:-1 group-title="Internet Radio" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/RadioIndonesia.png",RADIO MENDHUT
+http://c4.siar.us:8790/stream
+
+#EXTINF:-1 group-title="Internet Radio" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/RadioIndonesia.png",RADIO MUSIK INDONESIA
+https://stream-157.zeno.fm/av6xzace6ehvv?zs=abY0twdeTSid2Uxkz1GMJQ
+
+#EXTINF:-1 group-title="Internet Radio" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/RadioIndonesia.png",RADIO CAMPUR SARI
+https://a8.siar.us/listen/campursari/stream
+
+#EXTINF:-1 group-title="Internet Radio" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/RadioIndonesia.png",TEMBANG KENANGAN
+http://scg.streamingmurah.com:7777/;
+
+#EXTINF:-1 group-title="Internet Radio" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/RadioIndonesia.png",MADU FM
+https://stream-153.zeno.fm/z1bs88ttrfhvv?zs=9oXtwZxiRoS51w0qOHHZwg
+
+#EXTINF:-1 group-title="Internet Radio" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/RadioIndonesia.png",MAX RADIO
+http://live.serverstreaming.net:8090/max-radio
+
+#EXTINF:-1 group-title="Internet Radio" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/RadioIndonesia.png",NITNUT RADIO
+http://103.179.56.26:8000/radio.aac
+
+#EXTINF:-1 group-title="Internet Radio" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/RadioIndonesia.png",FAJAR FM
+https://bit.ly/3u7o37Y
+
+#EXTINF:-1 group-title="Internet Radio" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/RadioIndonesia.png",SEMERU FM
+https://bit.ly/3SHWLz4
+
+#EXTINF:-1 group-title="Internet Radio" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/RadioIndonesia.png",RADIO DMC
+http://id.radioimzers.com:5758/;?1695727869741
+
+#EXTINF:-1 group-title="Internet Radio" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/RadioIndonesia.png",SUZANA FM
+http://streaming.suzanafm.com:8000/;stream.nsv
+
+#EXTINF:-1 group-title="Internet Radio" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/RadioIndonesia.png",RADIO SHOLAWAT
+https://stream-152.zeno.fm/us5bsznu3rptv?zs=qLo1OC4OQJS18HQJh071ug
+
+#EXTINF:-1 group-title="Internet Radio" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/RadioIndonesia.png",POP FM KUDUS
+https://r2.siar.us:8700/suarakudus
+
+#EXTINF:-1 group-title="Internet Radio" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/RadioIndonesia.png",POP FM SEMARANG
+http://i.klikhost.com:9612/;
+
+#EXTINF:-1 group-title="Internet Radio" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/RadioIndonesia.png",RDI JAKARTA
+http://202.147.199.99:8000/stream/1/
+
+#EXTINF:-1 group-title="Internet Radio" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/RadioIndonesia.png",M RADIO
+https://c4.siar.us:8026/stream
+
+#EXTINF:-1 group-title="Internet Radio" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/RadioIndonesia.png",RADIO MUSIK
+https://stream-154.zeno.fm/av6xzace6ehvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJhdjZ4emFjZTZlaHZ2IiwiaG9zdCI6InN0cmVhbS0xNTQuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6InBrT2hCZG1OU18tb2VNcGhMRGREZ0EiLCJpYXQiOjE3MzU5MTI5MzEsImV4cCI6MTczNTkxMjk5MX0.yMCDR_RAdFagPupuwQCHMkKfMYa9eEm8Pr2MYgaHn9w
+
+#EXTINF:-1 group-title="Internet Radio" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/RadioIndonesia.png",RADIO ONLINE TULUNG AGUNG
+https://stream-152.zeno.fm/954yxsx00ehvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI5NTR5eHN4MDBlaHZ2IiwiaG9zdCI6InN0cmVhbS0xNTIuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Im11UzczTGVyU2FhSzI2M3VCZkhkRlEiLCJpYXQiOjE3MzU5MTMwOTksImV4cCI6MTczNTkxMzE1OX0.oIxd2jv9ZUgNTfJ7v2TEGIFrc_kYO73enMHdvAfkEXM
+
+_______________________________________________________________________________________________
+
+
+
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -5595,6 +5539,39 @@ https://stream-node1.rri.co.id/streaming/41/8941/chlima.mp3
 
 
 _____________________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
