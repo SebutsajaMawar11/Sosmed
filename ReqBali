@@ -1,49 +1,5 @@
 #EXTM3U
-#EXTM3U billed-msg="DO NOT SELL THISPLAYLIST ! - updated 26 Sep 2025 11:56 WIB" x-tvg-url="https://t.me/mawar_developer" // - req-bali
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTM3U billed-msg="DO NOT SELL THISPLAYLIST ! - updated 22 Sep 2025 11:56 WIB" x-tvg-url="https://t.me/mawar_developer"
 
 
 
@@ -61,14 +17,14 @@
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/UVboI1Ou4rE/hq720.jpg" group-title="🔵SELAMAT DATANG",▶🔴LIVE tssssssss
 ######https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
 
 #EXTINF:-1 group-logo="https://i.ytimg.com/vi/UiDoYXdzOec/hqdefault.jpg",YOUTUBE Channel
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/UiDoYXdzOec/hqdefault.jpg" group-title="🔵SELAMAT DATANG",▶SELESAI🔴LIVE CAMPURSARI MBAH SLAMET
 #####https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1750628924/ei/3CVYaLP3HYbtg8UPwObU0AY/ip/160.22.128.114/id/UiDoYXdzOec.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/siu/1/bui/AY1jyLMb2fPPXM4wJWW82W-IxzmWUl54CHh8LBfam9AQ9LlVOIDeizC3rIn_E5gLTlqlT76MIQ/spc/l3OVKVxHXcYokNgwKbIZoufJk1EXp3bxI-IDxvCSk9fG6xhrgSg_B79gp1Fwvh_gHnu8/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51466642%2C51466697/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgJvI2tH4la8gIEVoZSK9rJZJE_2OZP6gi5rzOTM-ytP8CIE4dz4PM9KjR9c1aNO-UOEeFp9F__6fPJD41l6uzU_sj/file/index.m3u8
 
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
 
 
 #EXTINF:-1 group-logo="https://i.ytimg.com/vi/ZA89cNtR1eg/hqdefault.jpg",YOUTUBE Channel
@@ -76,26 +32,26 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 #####https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1750629066/ei/aiZYaMuZOKbys8IP35WS0Ac/ip/160.22.128.114/id/ZA89cNtR1eg.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/siu/1/bui/AY1jyLPVHPxHZJ0BgbzTglbR35iRNVEfqpXdfnpjwy4byey8jcn_nxa0uLtQbgce1UgqEx92fg/spc/l3OVKcgtfbPR1JAqG7BcUK9Cm7EcNVAokyN-_64xhB-qB3T6eOvy1-y7Zu5-yiKcPKFK/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51466642%2C51466697/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgZWRaNKtTi0u9Np7gXAI1lpsOvxDfx6BxDQR5skAF6S4CIFpHYJflkzoXuMMz96PnNBt-wUItbHY0_BsRm_IRoedd/file/index.m3u8
 
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
 
 
 ____________
 SELAMAT DATANG
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
 
 ######EXTINF:-1 group-logo="https://img.freepik.com/free-vector/modern-you-are-welcome-banner-impress-your-new-employee_1017-57600.jpg",YOUTUBE Channel
 #######EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.freepik.com/free-vector/modern-you-are-welcome-banner-impress-your-new-employee_1017-57600.jpg" group-title="🔵SELAMAT DATANG",SELAMAT DATANG - ENJOY WATCHING
 ########https://scontent-cgk1-2.xx.fbcdn.net/o1/v/t2/f2/m69/AQPAMxROXComEQNy7qGqSSXFHbPEr9Mfe5ybCKa8uIlOG4t4T3WGEPvTgF7FKQzKh_YsoOJR_JynZ-n97LL9gC01.mp4?strext=1&_nc_cat=101&_nc_sid=8bf8fe&_nc_ht=scontent-cgk1-2.xx.fbcdn.net&_nc_ohc=9No_aOwSwzYQ7kNvwFORBUW&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNjQwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MzA3OTYzMTk0NDMzMDAyOTEsInZpX3VzZWNhc2VfaWQiOjEwMTIxLCJkdXJhdGlvbl9zIjoyODgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_zt=28&_nc_rml=0&_nc_eui2=AeGi2fKkQaUecRosn_oM_CsuU2Zbm56bGzNTZlubnpsbMyzdxXjtxkuFGznjLyrCho6zuSs9zEhcnNQpbPPkfnOc&oh=00_AfNxTckKShOSMz_CN-r7CsGp1xgs-Myamckiae1DeGGNVA&oe=6860473D
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
 
 
 ######EXTINF:-1 group-logo="https://www.seekpng.com/png/detail/246-2464857_information-png-download-info-png.png",YOUTUBE Channel
 #######EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.seekpng.com/png/detail/246-2464857_information-png-download-info-png.png" group-title="🔵SELAMAT DATANG",INFO...!!!
 ######https://scontent-cgk2-1.xx.fbcdn.net/o1/v/t2/f2/m69/AQMYkT_iayhlguZ3NTjWep1LdmQclE2g7Crxw1srz11AmweI9vLKAh1R6tBhGiwLwInbhIoPPllBNeNtPuLQebzs.mp4?strext=1&_nc_cat=102&_nc_sid=8bf8fe&_nc_ht=scontent-cgk2-1.xx.fbcdn.net&_nc_ohc=jPqUWW6ueyIQ7kNvwEUtkR9&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNDgwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6NjYxOTY5OTI2NjY5ODYyLCJ2aV91c2VjYXNlX2lkIjoxMDEyMSwiZHVyYXRpb25fcyI6MzQ0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_zt=28&_nc_rml=0&_nc_eui2=AeEp3jM0Ehd04HvogyzPXOiTv7FcUIotTvm_sVxQii1O-b2g4y63WgR7xLUVID97k2TmEwdyDcgZpBbwSgZzBm7T&oh=00_AfM-Xq98gsAnQbsUHRsytsKDYOKkBUrhrP8DTBVxdZ8lUg&oe=68604DF4
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
 
 
 #########EXTINF:-1 group-logo="https://ais-s.ais-vidnt.com/ais/play/origin/VOD/images/PrimeMonth2024_IconHome.png",YOUTUBE Channel
@@ -103,7 +59,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ########https://scontent-cgk2-1.xx.fbcdn.net/o1/v/t2/f2/m69/AQMnuEkILGsKbRsViXD31hlAfLLnGJSHVFeoQhc3Ja8IAH8FGke5BLwa-j1vUoumWP2wB-lMH4jzPFL2KD6_Fy0C.mp4?strext=1&_nc_cat=104&_nc_sid=8bf8fe&_nc_ht=scontent-cgk2-1.xx.fbcdn.net&_nc_ohc=8icxXLxlElsQ7kNvwHSMr-2&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNDI2LnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTQyNTMwMDM4ODM0MDQzOCwiYXNzZXRfYWdlX2RheXMiOjEyOTUsInZpX3VzZWNhc2VfaWQiOjEwMTIxLCJkdXJhdGlvbl9zIjoxMTAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_zt=28&_nc_rml=0&_nc_eui2=AeG51xksjC98qvTthQfEg5iMHQNKHkkNsU8dA0oeSQ2xT0XyP0-UCtMkQSdHZ8r-Vneljsw_w0UxlBXY4VOOTIYT&oh=00_AfMpkidj0R2nNDDqW47bc9C09-ees_-nTR6JiaaoCZjk6w&oe=684C5276
 
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
 
 
 
@@ -113,7 +69,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
 
 
 ####EXTINF:-1 group-logo="https://i.pinimg.com/736x/ee/0f/d1/ee0fd1f1dd18ee36da43099a40e2658a.jpg",YOUTUBE Channel
@@ -121,26 +77,26 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ###https://scontent-cgk2-1.xx.fbcdn.net/o1/v/t2/f2/m69/AQMYkT_iayhlguZ3NTjWep1LdmQclE2g7Crxw1srz11AmweI9vLKAh1R6tBhGiwLwInbhIoPPllBNeNtPuLQebzs.mp4?strext=1&_nc_cat=102&_nc_sid=8bf8fe&_nc_ht=scontent-cgk2-1.xx.fbcdn.net&_nc_ohc=w7rpoIlq-B8Q7kNvwGDmnQG&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNDgwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6NjYxOTY5OTI2NjY5ODYyLCJ2aV91c2VjYXNlX2lkIjoxMDEyMSwiZHVyYXRpb25fcyI6MzQ0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_zt=28&_nc_rml=0&_nc_eui2=AeEp3jM0Ehd04HvogyzPXOiTv7FcUIotTvm_sVxQii1O-b2g4y63WgR7xLUVID97k2TmEwdyDcgZpBbwSgZzBm7T&oh=00_AfLlyQ1ll0D_HQ92pLMEZf4EsTstln5lrZ18a19U_UDFmQ&oe=6839DA34
 
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
 ____________________________________________________________________________________________________________________________
 
 
 
 
 ================================== INDONESIA CHANNELS ====================================
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
 
 #EXTINF:-1 group-logo="https://i.ytimg.com/vi/OWQJdCowRmA/hq720.jpg",YOUTUBE Channel
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/OWQJdCowRmA/hq720.jpg" group-title="Indonesia Channels",🔴 LIVE STAR KIDS INDONESIA
 ######https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1755867091/ei/cxOoaMi-D9SGjuMPouC8gQk/ip/160.22.128.18/id/OWQJdCowRmA.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51569665/txs/51569663%2C51569664%2C51569665%2C51569666/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AY1jyLMnhtreDYAk-8khFbw084XlXugb7Hev370VblFe4ST6fr1MGKWrzS_jgjD9fDWfYprIIQT3oDp7/spc/l3OVKfFKxHztcS53I8TU9sYPgHfbgeB3dypKyym8zX067WtBvuOq/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAIT9KayJBI-htwOExUBc-__qx35ITtbKHkI-N8oAnkT3AiA5OdH-2HKrot71Mo6vCB2mdDICmhDZN_hCKq0AxK_tJg%3D%3D/file/index.m3u8
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
 
 #EXTINF:-1 group-logo="https://i.ytimg.com/vi/wAe56VnLFDU/hqdefault.jpg",YOUTUBE Channel
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/wAe56VnLFDU/hqdefault.jpg" group-title="Indonesia Channels",🔴 LIVE KENDEDES GRAND MUSIK
 ######https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1755781085/ei/fcOmaLjHHJODvcAPxYmJ-A8/ip/160.22.128.114/id/wAe56VnLFDU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51548069/txs/51548066%2C51548067%2C51548068%2C51548069%2C51548070%2C51548071/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AY1jyLMABFlnuv6QVrSf56FJH8Q9thrIGKYTPFLCA5RlFc7nIHcYP9fc746WnHYY2tgA2GzLAGi9FBhJ/spc/l3OVKS6fyiPU-8Zs_CjyNTmGPtNzcom6YXtcsTGZUm25WC7GwsPV/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51548755%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAITCuXZD3pPDJSZOW1TwhBu19KOCt-HPxXj0QIvKe8qlAiEA7-t5e96cGEpYydRa_nTIAJPunMhlk337qKrN40QsoWc%3D/file/index.m3u8
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
 
 #EXTINF:-1 group-logo="https://i.ytimg.com/vi/33WuFcJZlyA/hqdefault.jpg",YOUTUBE Channel
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/33WuFcJZlyA/hqdefault.jpg" group-title="Indonesia Channels",🔴 MEKAR SARI BUDOYO
@@ -149,7 +105,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ______________________________________________________
 
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
 
 
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO3goeqb4ymdM6A5nYIpNR-SET7v8jiymzHhVC_qGp4pELzRrRW6J4CQc&s=10",YOUTUBE Channel
@@ -157,20 +113,20 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 #################https://scontent-cgk2-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQPjWNAGp7y1PsUy7bDvVzt7sRBl0ueOe4vtBL2Cf43hA5ELiT1RhmpvVBlT4obYN8NDde36Dm2EdlFuHknwBNw3QXmTEBCY8x3mPteidQ.mp4?_nc_cat=106&_nc_sid=8bf8fe&_nc_ht=scontent-cgk2-1.xx.fbcdn.net&_nc_ohc=SXo62oo0NeEQ7kNvwGQURbl&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNjQwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTgwNzE5NzU5MDE1NTM1OSwidmlfdXNlY2FzZV9pZCI6MTAxMjEsImR1cmF0aW9uX3MiOjIyMCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_zt=28&_nc_rml=0&_nc_eui2=AeGUhqTJnXlna_d8PSK7U4397BywT1r8o9HsHLBPWvyj0ehKZVP3gaI8rNHpNxb7a0g13BgwPq-PqCjACKe69VZc&oh=00_AfQp1eCtKlxeEm3Um-_B6kUFEx3xqwD_Xob4o1ZG7KG_Mg&oe=6887D680
 
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
 
 #EXTINF:-1 group-logo="https://img.freepik.com/free-vector/modern-you-are-welcome-banner-impress-your-new-employee_1017-57600.jpg",YOUTUBE Channel
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.freepik.com/free-vector/modern-you-are-welcome-banner-impress-your-new-employee_1017-57600.jpg" group-title="Indonesia Channels",SELAMAT DATANG - ENJOY WATCHING
 ####https://video-cgk1-2.xx.fbcdn.net/o1/v/t2/f2/m69/AQPAMxROXComEQNy7qGqSSXFHbPEr9Mfe5ybCKa8uIlOG4t4T3WGEPvTgF7FKQzKh_YsoOJR_JynZ-n97LL9gC01.mp4?strext=1&_nc_cat=101&_nc_sid=8bf8fe&_nc_ht=video-cgk1-2.xx.fbcdn.net&_nc_ohc=D8hiTsvmf3cQ7kNvwHHLSwn&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNjQwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MzA3OTYzMTk0NDMzMDAyOTEsInZpX3VzZWNhc2VfaWQiOjEwMTIxLCJkdXJhdGlvbl9zIjoyODgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=NhCXtcxIWqPpUAzfTvczpw&_nc_zt=28&oh=00_AfUsJQRC3bIgbgHed61fs_jN-x--FSYAmS7M67HqAhQibw&oe=689CEC3D&bitrate=138540&tag=sve_sd
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
 
 
 #EXTINF:-1 group-logo="https://www.seekpng.com/png/detail/246-2464857_information-png-download-info-png.png",YOUTUBE Channel
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.seekpng.com/png/detail/246-2464857_information-png-download-info-png.png" group-title="Indonesia Channels",INFO...!!!
 #####https://video-cgk2-1.xx.fbcdn.net/o1/v/t2/f2/m69/AQMYkT_iayhlguZ3NTjWep1LdmQclE2g7Crxw1srz11AmweI9vLKAh1R6tBhGiwLwInbhIoPPllBNeNtPuLQebzs.mp4?strext=1&_nc_cat=102&_nc_sid=8bf8fe&_nc_ht=video-cgk2-1.xx.fbcdn.net&_nc_ohc=CmGwyrm7Jf4Q7kNvwEoJEIQ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNDgwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6NjYxOTY5OTI2NjY5ODYyLCJ2aV91c2VjYXNlX2lkIjoxMDEyMSwiZHVyYXRpb25fcyI6MzQ0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_zt=28&oh=00_AfWy7scEi55K7BZPyhuinDbINuCME-pVdL6RhTUOcVq-Lg&oe=689CF2F4&bitrate=291991&tag=sve_sd
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
 
 _______________________________________________________________________________________
 EVENT _____🔴🔴🔴
@@ -184,7 +140,7 @@ https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.m
 
 
 
-_____xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+_____
 🔴BRI 1)
 
 #EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://thumbor.prod.vidiocdn.com/1yUx9ULvuSMX8kkdqgJMJ4f-Slg=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19354/bri-super-league-7ef0b7.jpg", LIGA BRI s1 - Super League (TERSEDIA SAAT LIVE)
@@ -193,7 +149,7 @@ _____xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 #KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19354&type=drm
 ###https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19354&type=dash
 
-____xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+____
 🔴BRI A)
 
 #EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://thumbor.prod.vidiocdn.com/1yUx9ULvuSMX8kkdqgJMJ4f-Slg=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19354/bri-super-league-7ef0b7.jpg", LIGA BRI (A) - Super League (TERSEDIA SAAT LIVE)
@@ -204,7 +160,7 @@ ____xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 
 
-___xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+___
 🔴Bri 2)
 
 #EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://thumbor.prod.vidiocdn.com/1yUx9ULvuSMX8kkdqgJMJ4f-Slg=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19354/bri-super-league-7ef0b7.jpg",INDOSIAR auto s2- BRI Super League (TERSEDIA SAAT LIVE)
@@ -213,7 +169,7 @@ ___xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 #KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19354&type=drm
 ###https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19354&type=dash
 
-____xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+____
 🔴pegadaian1)
 
 #EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://thumbor.prod.vidiocdn.com/gpLEtMmn4-RluMfGMp1_7MVJPTM=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19584/pegadaian-championship-3980ec.jpg", LIGA PEGADAIAN s1 - Pegadaian Championship (TERSEDIA SAAT LIVE)
@@ -223,7 +179,7 @@ ____xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ###https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19543&type=dash
 
 
-_____xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+_____
 🔴pegadaian 2)
 
 #EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://thumbor.prod.vidiocdn.com/gpLEtMmn4-RluMfGMp1_7MVJPTM=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19584/pegadaian-championship-3980ec.jpg", LIGA PEGADAIAN s2 - Pegadaian Championship (TERSEDIA SAAT LIVE)
@@ -234,7 +190,7 @@ _____xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 
 
-___________________________________________________xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+___________________________________________________
 
 #EXTINF:-1 group-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/720x0/webp/photo/2025/09/03/2166414908.jpg" group-title="Indonesia Channels" tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/720x0/webp/photo/2025/09/03/2166414908.jpg" ch-number="1",🔴INDOSIAR🔴 SPORTS_FHD
 #EXT-X-TARGETDURATION:2
@@ -254,7 +210,7 @@ ___________________________________________________xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 #########http://103.179.182.117:6768/hls/55/55.m3u8
 
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
 
 __________________________________________________
 
@@ -641,27 +597,27 @@ https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=205&type=dash
 ###https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19354&type=dash
 
 
-#EXTINF:-1 group-title="📁LIVE / EVENT LOKAL" tvg-logo="https://thumbor.prod.vidiocdn.com/1yUx9ULvuSMX8kkdqgJMJ4f-Slg=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19354/bri-super-league-7ef0b7.jpg",LIGA BRI A (A3) - Super League (TERSEDIA SAAT LIVE)
+#EXTINF:-1 group-title="📁LIVE / EVENT LOKAL" tvg-logo="https://thumbor.prod.vidiocdn.com/1yUx9ULvuSMX8kkdqgJMJ4f-Slg=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19354/bri-super-league-7ef0b7.jpg",LIGA BRI (A2) - Super League (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19355&type=drm
 ###https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19355&type=dash
 
 
-#EXTINF:-1 group-title="📁LIVE / EVENT LOKAL" tvg-logo="https://thumbor.prod.vidiocdn.com/gpLEtMmn4-RluMfGMp1_7MVJPTM=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19584/pegadaian-championship-3980ec.jpg",LIGA PEGADAIAN B (B1) - Pegadaian Championship (TERSEDIA SAAT LIVE)
+#EXTINF:-1 group-title="📁LIVE / EVENT LOKAL" tvg-logo="https://thumbor.prod.vidiocdn.com/gpLEtMmn4-RluMfGMp1_7MVJPTM=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19584/pegadaian-championship-3980ec.jpg",(22 Sep 2025 15:15 WIB) Persikad vs Sriwijaya FC - Pegadaian Championship
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19542&type=drm
 ###https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19542&type=dash
 
-#EXTINF:-1 group-title="#EXTINF:-1 group-title="📁LIVE / EVENT LOKAL" tvg-logo="https://thumbor.prod.vidiocdn.com/1yUx9ULvuSMX8kkdqgJMJ4f-Slg=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19354/bri-super-league-7ef0b7.jpg",LIGA BRI - B (A1) - Super League (TERSEDIA SAAT LIVE)
+#EXTINF:-1 group-title="#EXTINF:-1 group-title="📁LIVE / EVENT LOKAL" tvg-logo="https://thumbor.prod.vidiocdn.com/1yUx9ULvuSMX8kkdqgJMJ4f-Slg=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19354/bri-super-league-7ef0b7.jpg",BRI Super League - (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=205&type=drm
 https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=205&type=dash
 
 
-#EXTINF:-1 group-title="📁LIVE / EVENT LOKAL" tvg-logo="https://thumbor.prod.vidiocdn.com/gpLEtMmn4-RluMfGMp1_7MVJPTM=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19584/pegadaian-championship-3980ec.jpg",LIGA PEGADAIAN B (B2) - Pegadaian Championship (TERSEDIA SAAT LIVE)
+#EXTINF:-1 group-title="📁LIVE / EVENT LOKAL" tvg-logo="https://thumbor.prod.vidiocdn.com/gpLEtMmn4-RluMfGMp1_7MVJPTM=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19584/pegadaian-championship-3980ec.jpg",Pegadaian Championship - (TERSEDIA SAAT LIVE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19543&type=drm
@@ -988,6 +944,394 @@ ____
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
 ###http://103.179.182.117:6768/hls/63/63.m3u8
+
+
+
+
+==========================================================📁 LOKAL VIP | AUTO============================================================================
+
+
+
+#EXTINF:-1 group-logo="https://images.bisnis.com/posts/2020/04/02/1221683/vidio1.jpg"
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/XBqGTlMWJaY48osD8s4I1ZJPngA=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/4e9f5c.png" group-title="📁 LOKAL VIP | AUTO", SCTV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://popmi.my.id/tes.m3u8?id=204
+
+#EXTINF:-1 group-title="📁 LOKAL VIP | AUTO" tvg-logo="https://thumbor.prod.vidiocdn.com/XLhKDFI8G-sL8J2vVg5vHla7ovM=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/733/ecaa60.png", TRANS TV
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=733&type=drm
+https://spacetv.my.id/index.mpd?id=733&type=dash
+
+#EXTINF:-1 group-title="📁 LOKAL VIP | AUTO" tvg-logo="https://thumbor.prod.vidiocdn.com/U38BeE-y8dWcgQjBYMKY-Nfd_fg=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/131514.png", Trans7
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=734&type=drm
+https://spacetv.my.id/index.mpd?id=734&type=dash
+
+#EXTINF:-1 group-title="📁 LOKAL VIP | AUTO" tvg-logo="https://thumbor.prod.vidiocdn.com/RIEYY6xRlnSBkwYl3ysbEDoCQmk=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/783/07750c.png", TVOne
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://popmi.my.id/tes.m3u8?id=783
+
+#EXTINF:-1 group-title="📁 LOKAL VIP | AUTO" tvg-logo="https://thumbor.prod.vidiocdn.com/ie0dsrnpCuMgM2ChvdnDkrAei90=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/782/e1af8b.png", ANTV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://popmi.my.id/tes.m3u8?id=782
+
+
+#EXTINF:-1 group-title="📁 LOKAL VIP | AUTO" tvg-logo="https://thumbor.prod.vidiocdn.com/ie0dsrnpCuMgM2ChvdnDkrAei90=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/782/e1af8b.png", ANTV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#########https://siasia-berjuang-hls.bintangstream513.workers.dev/.m3u8?id=782type=hls
+
+
+
+#EXTINF:-1 group-title="📁 LOKAL VIP | AUTO" tvg-logo="https://thumbor.prod.vidiocdn.com/L8ojsXDCSAn4TDoSJrqr8xqMRy8=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/777/ea8483.png", Metro TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://popmi.my.id/tes.m3u8?id=777
+
+#EXTINF:-1 group-title="📁 LOKAL VIP | AUTO" tvg-logo="https://thumbor.prod.vidiocdn.com/PPmP4ZZL9zYXq23d2ltlo8LYChQ=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/874/042ca3.png", Kompas TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://popmi.my.id/tes.m3u8?id=874
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/qtIYvE-mjwMPwd-VUxilo2gFiAI=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/18162/b4bea2.png", group-title="📁 LOKAL VIP | AUTO", GARUDATV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://popmi.my.id/tes.m3u8?id=18162
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/cSyueV9bIgkdLkvVWqIZOlR6TFQ=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/18280/c7fc8f.png", group-title="📁 LOKAL VIP | AUTO", BERITA SATU
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://popmi.my.id/tes.m3u8?id=18280
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/j6L0yLX8CtZTUnIO5aMzs0tNkvI=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/19046/aaa3fa.png", group-title="📁 LOKAL VIP | AUTO", SIN PO TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://popmi.my.id/tes.m3u8?id=19046
+
+#EXTINF:-1 group-title="📁 LOKAL VIP | AUTO" tvg-logo="https://thumbor.prod.vidiocdn.com/NEU5NOM51mtJVYE4bI4iP2bLSCs=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/1561/665aea.png", RTV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://popmi.my.id/tes.m3u8?id=1561
+
+#EXTINF:-1 group-title="📁 LOKAL VIP | AUTO" tvg-logo="https://thumbor.prod.vidiocdn.com/PHV9N6KXPk1NUNLlANF996glEzc=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png", Indosiar
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://popmi.my.id/tes.m3u8?id=205
+
+#EXTINF:-1 group-title="📁 LOKAL VIP | AUTO" tvg-logo="https://thumbor.prod.vidiocdn.com/PHV9N6KXPk1NUNLlANF996glEzc=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png", Indosiar Event
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19354&type=drm
+https://spacetv.my.id/index.mpd?id=19354&type=dash
+
+#EXTINF:-1 group-title="📁 LOKAL VIP | AUTO" tvg-logo="https://thumbor.prod.vidiocdn.com/oh6LOZR66hu5ikDl01oejOaQRjs=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/1823dc.png", Moji
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://popmi.my.id/tes.m3u8?id=206
+
+#EXTINF:-1 group-title="📁 LOKAL VIP | AUTO" tvg-logo="https://thumbor.prod.vidiocdn.com/oh6LOZR66hu5ikDl01oejOaQRjs=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/1823dc.png", Moji Event
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19334&type=drm
+https://spacetv.my.id/index.mpd?id=19334&type=dash
+
+#EXTINF:-1 group-title="📁 LOKAL VIP | AUTO" tvg-logo="https://thumbor.prod.vidiocdn.com/CHQ7jG2pWgk7OSBt-Sw8ZK1MB9U=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6441/528cc9.png", TVRI
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://popmi.my.id/tes.m3u8?id=6441
+
+#EXTINF:-1 group-title="📁 LOKAL VIP | AUTO" tvg-logo="https://thumbor.prod.vidiocdn.com/DKANEUKIVCBG1x62TxXS33Tue0g=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6165/a712b0.png", BTV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://popmi.my.id/tes.m3u8?id=6165
+
+#EXTINF:-1 group-title="📁 LOKAL VIP | AUTO" tvg-logo="https://thumbor.prod.vidiocdn.com/LCZH_yEBnTYEQzrU1pB7w7ev-Bw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/875/325605.png", MDTV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://popmi.my.id/tes.m3u8?id=875
+
+#EXTINF:-1 group-title="📁 LOKAL VIP | AUTO" tvg-logo="https://thumbor.prod.vidiocdn.com/qyk6RzFNDnT8Nh103ZvffR88YWw=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/5415/802b76.png", Jaktv
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://popmi.my.id/tes.m3u8?id=5415
+
+#EXTINF:-1 group-title="📁 LOKAL VIP | AUTO" tvg-logo="https://thumbor.prod.vidiocdn.com/hidQqxmsKQvYJ4P5rkueZsbl__A=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6482/e83fcf.png", DAAI TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://popmi.my.id/tes.m3u8?id=6482
+
+#EXTINF:-1 group-title="📁 LOKAL VIP | AUTO" tvg-logo="https://thumbor.prod.vidiocdn.com/jRXTcft4R8nvv-MAtpXEyrSV7XU=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7432/bfecbc.png", Nusantara TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://popmi.my.id/tes.m3u8?id=7432
+
+#EXTINF:-1 group-title="📁 LOKAL VIP | AUTO" tvg-logo="https://thumbor.prod.vidiocdn.com/4e5Dt47oZTCIE5dkUP2DwFl_bd8=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9713/a11faf.png", JTV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://popmi.my.id/tes.m3u8?id=9713
+
+#EXTINF:-1 group-title="📁 LOKAL VIP | AUTO" tvg-logo="https://thumbor.prod.vidiocdn.com/yo9zkfT4I-17_keD5cai7XRKEE0=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9714/5a2fad.jpg", Jawapos TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://popmi.my.id/tes.m3u8?id=9714
+
+#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/vgPh4742qO.png" group-title="📁 LOKAL VIP | AUTO", Daystar TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://popmi.my.id/tes.m3u8?id=18622
+
+#EXTINF:-1 tvg-id="Spotv" tvg-logo="https://thumbor.prod.vidiocdn.com/R5o3HOzN4coNEldIuKjnpawojr4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6299/d74f54.png" group-title="📁 LOKAL VIP | AUTO",Bein Sports 1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=6299&type=drm
+https://spacetv.my.id/index.mpd?id=6299&type=dash
+
+#EXTINF:-1 tvg-id="Spotv 2" tvg-logo="https://thumbor.prod.vidiocdn.com/HsxPbK2T6gPnpmNmiL4KEApfzz0=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/17875/afb4ca.png" group-title="📁 LOKAL VIP | AUTO",Bein Sports 2 
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=17875&type=drm
+https://spacetv.my.id/index.mpd?id=17875&type=dash
+
+#EXTINF:-1 tvg-id="Spotv 2" tvg-logo="https://thumbor.prod.vidiocdn.com/lKgFAcljoRcYILYnMzYh8dt7Ixw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6317/4a8762.png" group-title="📁 LOKAL VIP | AUTO",Bein Sports 3
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=6317&type=drm
+https://spacetv.my.id/index.mpd?id=6317&type=dash
+
+#EXTINF:-1 group-title="📁 LOKAL VIP | AUTO" tvg-logo="https://thumbor.prod.vidiocdn.com/oVgHHmQei40opkprWzG7erORTpc=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6362/dcd434.png", TVN
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://fadhillah.serv00.net/scripts/vidiohls.php/stream.m3u8?id=6362
+
+#EXTINF:-1 group-title="📁 LOKAL VIP | AUTO" tvg-logo="https://thumbor.prod.vidiocdn.com/3iDA6RUopZay1BlEWBchTfy6kos=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8121/e9e2b9.png", Rock Action
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=8121&type=drm
+https://spacetv.my.id/index.mpd?id=8121&type=dash
+
+#EXTINF:-1 group-title="📁 LOKAL VIP | AUTO" tvg-logo="https://thumbor.prod.vidiocdn.com/z7T_dri_Hkip3IE3DzMyqykaRoA=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8120/8d7f22.png", ROCK Entertainment
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=8120&type=drm
+https://spacetv.my.id/index.mpd?id=8120&type=dash
+
+#EXTINF:-1 group-title="📁 LOKAL VIP | AUTO" tvg-logo="https://thumbor.prod.vidiocdn.com/BElhAVy4Xfd3-YSehnRdSiGe1m4=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6784/b9cb20.png", Arirang
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://popmi.my.id/tes.m3u8?id=6784
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/mKMJ1J-ffUe8NpZ3ky3Ve5oDzuI=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/18105/25d569.png" group-title="📁 LOKAL VIP | AUTO", GGS TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://popmi.my.id/tes.m3u8?id=18105
+
+#EXTINF:-1 group-title="📁 LOKAL VIP | AUTO" tvg-logo="https://thumbor.prod.vidiocdn.com/7eHBnFC71jC6uTY8UKEGhnd77cc=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/10975/0dc2d8.png", Elshinta TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://popmi.my.id/tes.m3u8?id=10975
+
+#EXTINF:-1 group-title="📁 LOKAL VIP | AUTO" tvg-logo="https://thumbor.prod.vidiocdn.com/M86RraxZ0ZP4NnxvbwVBOCXaZ9M=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7230/7d6bf5.jpg", Magna TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://popmi.my.id/tes.m3u8?id=7230
+
+#EXTINF:-1 group-title="📁 LOKAL VIP | AUTO" tvg-logo="https://thumbor.prod.vidiocdn.com/G8DFCpHw64-180V638Xfu0C0Zng=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7619/379f71.png", MUSICA
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://popmi.my.id/tes.m3u8?id=7619
+
+#EXTINF:-1 group-title="📁 LOKAL VIP | AUTO" tvg-logo="https://thumbor.prod.vidiocdn.com/TYz1iEMEY8j8eVj7vKhHjk0xzyc=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6410/6027db.png", Aljazeera
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://popmi.my.id/tes.m3u8?id=6410
+
+#EXTINF:-1 group-title="📁 LOKAL VIP | AUTO" tvg-logo="https://thumbor.prod.vidiocdn.com/JdB3e-i8Ed6vVcdiQqbxoTB23c8=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/5075/f6106b.png", DW English
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://popmi.my.id/tes.m3u8?id=5075
+
+#EXTINF:-1 group-title="📁 LOKAL VIP | AUTO" tvg-logo="https://thumbor.prod.vidiocdn.com/3rPJsyH0az_3cBgk1BvxRGBL7_0=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7150/2de77e.png", ABC Australia
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://popmi.my.id/tes.m3u8?id=7150
+
+#EXTINF:-1 group-title="📁 LOKAL VIP | AUTO" tvg-logo="https://thumbor.prod.vidiocdn.com/B4HwqUWN0oH-YMYGENNykOpyh0k=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7968/3f44ff.png", NHK World Japan
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://popmi.my.id/tes.m3u8?id=7968
+
+#EXTINF:-1 group-title="📁 LOKAL VIP | AUTO" tvg-logo="https://thumbor.prod.vidiocdn.com/8EdLDy7Zwk9-_U5IWUefcLEm8eE=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6411/e600b8.jpg", News Asia
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://popmi.my.id/tes.m3u8?id=6411
+
+#EXTINF:-1 group-title="📁 LOKAL VIP | AUTO" tvg-logo="https://thumbor.prod.vidiocdn.com/DCG-bJNyuLTksVHrqarPTAtwvco=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/12784/b75a42.png", AFRICANEWS TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://popmi.my.id/tes.m3u8?id=12784
+
+#EXTINF:-1 group-title="📁 LOKAL VIP | AUTO" tvg-logo="https://thumbor.prod.vidiocdn.com/FsrcmE5ettOMsnfzELxgtPUGOHc=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6412/c0e105.png", Euro News
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://popmi.my.id/tes.m3u8?id=6412
+
+#EXTINF:-1 group-title="📁 LOKAL VIP | AUTO" tvg-logo="https://thumbor.prod.vidiocdn.com/NlKuedj4cpv-SrNGEi26Ce4AFd4=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8237/18585d.png", Mentari TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://popmi.my.id/tes.m3u8?id=8237
+
+#EXTINF:-1 group-title="📁 LOKAL VIP | AUTO" tvg-logo="https://thumbor.prod.vidiocdn.com/I6-4SXyxld-IPtEgXkXaHIOrw74=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6533/f6c9c0.png", Zoomoo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.deno.dev/play?id=6533&type=drm
+https://bitter-boa-67.deno.dev/play.mpd?id=6533&type=dash
+
+#EXTINF:-1 group-title="📁 LOKAL VIP | AUTO" tvg-logo="https://thumbor.prod.vidiocdn.com/-vUtTKf6ogRcvcjURJn62-m-eCU=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7052/63032e.png", Hip Hip Horee! 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://fadhillah.serv00.net/scripts/vidiohls.php/stream.m3u8?id=7052
+
+#EXTINF:-1 group-title="📁 LOKAL VIP | AUTO" tvg-logo="https://thumbor.prod.vidiocdn.com/PQBfpwpTbQWZDJLLK5REbICdg-g=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6397/d422cd.png", Horee
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.deno.dev/play?id=6397&type=drm
+https://bitter-boa-67.deno.dev/play.mpd?id=6397&type=dash
+
+#EXTINF:-1 group-title="📁 LOKAL VIP | AUTO" tvg-logo="https://thumbor.prod.vidiocdn.com/vOv_y7LMPnSEX0KlJSnADdHndFI=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7464/e69965.png", AJWA TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://popmi.my.id/tes.m3u8?id=7464
+
+#EXTINF:-1 group-title="📁 LOKAL VIP | AUTO" tvg-logo="https://thumbor.prod.vidiocdn.com/NMGm2f1Xkhy916g4LPLB3wDGc5Y=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6852/1047bc.png", Makkah TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://popmi.my.id/tes.m3u8?id=6852
+
+#EXTINF:-1 group-title="📁 LOKAL VIP | AUTO" tvg-logo="https://thumbor.prod.vidiocdn.com/XudiSJe7FNdZ4dBfDmy-5X0MwZo=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/12607/de1855.png", DMI TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://popmi.my.id/tes.m3u8?id=12607
+
+#EXTINF:-1 group-title="📁 LOKAL VIP | AUTO" tvg-logo="https://thumbor.prod.vidiocdn.com/ZK3MJggjRhLH9fHevY-qg-HNvho=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6898/7e119a.png", U-Channel TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://popmi.my.id/tes.m3u8?id=6898
+
+#EXTINF:-1 group-title="📁 LOKAL VIP | AUTO" tvg-logo="https://thumbor.prod.vidiocdn.com/LXg-Kd3Sea2o60Wvw82XXsnzTUw=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7004/12f134.png", Prambors On Air
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://popmi.my.id/tes.m3u8?id=7004
+
+#EXTINF:-1 group-title="📁 LOKAL VIP | AUTO" tvg-logo="https://thumbor.prod.vidiocdn.com/xpFtUOUrkJU8WgXFlfmsdM45G2M=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7092/1f3060.jpg", Delta FM
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://popmi.my.id/tes.m3u8?id=7092
+
+#EXTINF:-1 group-title="📁 LOKAL VIP | AUTO" tvg-logo="https://thumbor.prod.vidiocdn.com/AGSkkliQl1xAxbUgYfUw9WkqsNA=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7057/4fe373.png", i-Radio
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://popmi.my.id/tes.m3u8?id=7057
+
+#EXTINF:-1 group-title="📁 LOKAL VIP | AUTO" tvg-logo="https://thumbor.prod.vidiocdn.com/Tr0Vuh-AYGAtQrJfkitEO3cQIpc=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7443/36d403.jpg", Gen FM Jakarta
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://popmi.my.id/tes.m3u8?id=7443
+
+#EXTINF:-1 group-title="📁 LOKAL VIP | AUTO" tvg-logo="https://thumbor.prod.vidiocdn.com/QoRkZfbTP6mpweD_Xf0WuMjHEvM=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7166/84b749.png", Elshinta 90 FM
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://popmi.my.id/tes.m3u8?id=7166
+
+#EXTINF:-1 group-title="📁 LOKAL VIP | AUTO" tvg-logo="https://thumbor.prod.vidiocdn.com/gu1cRhrShOpVQqNnw-0SEJEUPvY=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7445/308abe.jpg", Kis FM
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://popmi.my.id/tes.m3u8?id=7445
+
+#EXTINF:-1 group-title="📁 LOKAL VIP | AUTO" tvg-logo="https://thumbor.prod.vidiocdn.com/vqV0em60m9YJLIWRfKUUcpRZqc8=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7449/c40e40.jpg", Jak FM
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://popmi.my.id/tes.m3u8?id=7449
+
+#EXTINF:-1 group-title="📁 LOKAL VIP | AUTO" tvg-logo="https://thumbor.prod.vidiocdn.com/DRRtBDeg9-cADQG8TD-Gw8cJWuo=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7053/821869.png", Hard Rock FM
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://popmi.my.id/tes.m3u8?id=7053
+
+#EXTINF:-1 group-title="📁 LOKAL VIP | AUTO" tvg-logo="https://thumbor.prod.vidiocdn.com/DFIwReKQP-55TQQwrqHxSxtlXbc=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7184/82e833.png", Ardan Radio
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://popmi.my.id/tes.m3u8?id=7184
+
+#EXTINF:-1 group-title="📁 LOKAL VIP | AUTO" tvg-logo="https://thumbor.prod.vidiocdn.com/3mL1lXVwRRg6gcZP4jBj4A8wkdU=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7091/7310fe.png", Bahana FM
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://popmi.my.id/tes.m3u8?id=7091
+
+#EXTINF:-1 group-title="📁 LOKAL VIP | AUTO" tvg-logo="https://thumbor.prod.vidiocdn.com/C1LFaP5N3iB90Fj-kA3RLgW-ED8=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7130/b207ab.png", Female FM
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://popmi.my.id/tes.m3u8?id=7130
+
+#EXTINF:-1 group-title="📁 LOKAL VIP | AUTO" tvg-logo="https://thumbor.prod.vidiocdn.com/sOXQH-l9f0-nm0MoLmf9b-NXbL0=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/12237/946b88.png", Sonora Radio
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://popmi.my.id/tes.m3u8?id=12237
+
+#EXTINF:-1 group-title="📁 LOKAL VIP | AUTO" tvg-logo="https://thumbor.prod.vidiocdn.com/0jlTt_UHGdQBTHXGlbysK84Mxo4=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7448/529568.jpg", Hot FM
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://popmi.my.id/tes.m3u8?id=7448
+
+#EXTINF:-1 group-title="📁 LOKAL VIP | AUTO" tvg-logo="https://thumbor.prod.vidiocdn.com/oCNfF7rqvp-8_gPT5hxwsG1-2Wc=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7242/d12a5d.png", Dahlia FM
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://popmi.my.id/tes.m3u8?id=7242
+
+#EXTINF:-1 group-title="📁 LOKAL VIP | AUTO" tvg-logo="https://thumbor.prod.vidiocdn.com/_OBkJ9YJ0y1lkVWV4am4TwFIVac=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7248/930ad0.png", SWARAGAMA FM Jogja !
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://popmi.my.id/tes.m3u8?id=7248
+
+#EXTINF:-1 group-title="📁 LOKAL VIP | AUTO" tvg-logo="https://thumbor.prod.vidiocdn.com/sfgFK3eu9EQhJ4n5fszi9cv2YMo=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7447/a2ecab.jpg", Mustang FM
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://popmi.my.id/tes.m3u8?id=7447
+
+#EXTINF:-1 group-title="📁 LOKAL VIP | AUTO" tvg-logo="https://thumbor.prod.vidiocdn.com/pc7aRlA9-qFJKEB7on5ZRwnSrno=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7054/f4bb0d.png", Brava Radio
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://popmi.my.id/tes.m3u8?id=7054
+
+#EXTINF:-1 group-title="📁 LOKAL VIP | AUTO" tvg-logo="https://thumbor.prod.vidiocdn.com/PoN6vxEU6Xmtz2oPr0K-barLDHA=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7684/761fe4.jpg", Rama FM
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://popmi.my.id/tes.m3u8?id=7684
+
+#EXTINF:-1 group-title="📁 LOKAL VIP | AUTO" tvg-logo="https://thumbor.prod.vidiocdn.com/10K-qtWqvB_cn5bMnR9ukhCHqk8=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7169/612bbf.png", ELGANGGA
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://popmi.my.id/tes.m3u8?id=7169
+
+#EXTINF:-1 group-title="📁 LOKAL VIP | AUTO" tvg-logo="https://thumbor.prod.vidiocdn.com/0rBf7JkzYfTHTa3o9RQEldasLvc=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7055/dd2884.jpg", TRAX
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://popmi.my.id/tes.m3u8?id=7055
+
+#EXTINF:-1 group-title="📁 LOKAL VIP | AUTO" tvg-logo="https://thumbor.prod.vidiocdn.com/4ZrXRMohM3OGQMiHNMytPq4GR_0=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7284/0cf751.png", GAJAHMADA
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://popmi.my.id/tes.m3u8?id=7284
+
+#EXTINF:-1 group-title="📁 LOKAL VIP | AUTO" tvg-logo="https://thumbor.prod.vidiocdn.com/G7nOmwwoccTytycQmFld7G17wQw=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7446/c06718.jpg", Gen FM Surabaya
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://popmi.my.id/tes.m3u8?id=7446
+
+#EXTINF:-1 group-title="📁 LOKAL VIP | AUTO" tvg-logo="https://thumbor.prod.vidiocdn.com/iCqqGcjt5FQucS3zEj18yrI8GSM=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/12238/a47b4b.png", Motion Radio
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://popmi.my.id/tes.m3u8?id=12238
+
+#EXTINF:-1 group-title="📁 LOKAL VIP | AUTO" tvg-logo="https://thumbor.prod.vidiocdn.com/Ap8e9iNBe0scow3b10YaIqgoVsA=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/15670/d6e1a4.png", Elfara FM Malang
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://popmi.my.id/tes.m3u8?id=15670
+
+#EXTINF:-1 group-title="📁 LOKAL VIP | AUTO" tvg-logo="https://thumbor.prod.vidiocdn.com/EtHiXji1fId9yRqlPNgdrQi7ezY=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7281/207c75.png", Imelda FM
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://popmi.my.id/tes.m3u8?id=7281
+
+#EXTINF:-1 group-title="📁 LOKAL VIP | AUTO" tvg-logo="https://thumbor.prod.vidiocdn.com/z5A6sy3Cyt07YiKb2-AzVDl0xgI=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8638/3ec1bf.jpg", NAGASWARA RADIOTEMEN
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://popmi.my.id/tes.m3u8?id=8638
+
+#EXTINF:-1 group-title="📁 LOKAL VIP | AUTO" tvg-logo="https://thumbor.prod.vidiocdn.com/wF424-Ll4ePUIoUDol2zwK9Bwds=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7685/6a2889.jpg", Paramuda FM
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://popmi.my.id/tes.m3u8?id=7685
+
+#EXTINF:-1 group-title="📁 LOKAL VIP | AUTO" tvg-logo="https://thumbor.prod.vidiocdn.com/IBx5_lmCnMmhi9sx56Lg6QWrzkA=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7297/a38a60.png", Radio Cakra
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://popmi.my.id/tes.m3u8?id=7297
+
+#EXTINF:-1 group-title="📁 LOKAL VIP | AUTO" tvg-logo="https://thumbor.prod.vidiocdn.com/ikR4EM1fKjNwOtAhXbNQ8NGc5_8=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/12239/fafe8d.png", Smart FM
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://popmi.my.id/tes.m3u8?id=12239
+
+#EXTINF:-1 group-title="📁 LOKAL VIP | AUTO" tvg-logo="https://thumbor.prod.vidiocdn.com/u8XUkrZBVz5s4xmJlVREP4fHveg=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7056/b2a58f.jpg", Cosmopolitan Radio
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://popmi.my.id/tes.m3u8?id=7056
+
+#EXTINF:-1 group-title="📁 LOKAL VIP | AUTO" tvg-logo="https://thumbor.prod.vidiocdn.com/pmc8fY7M95xmIqNugyoDpp5YC3o=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7170/010bd3.png", ELMITRA
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://popmi.my.id/tes.m3u8?id=7170
+
+#EXTINF:-1 group-title="📁 LOKAL VIP | AUTO" tvg-logo="https://thumbor.prod.vidiocdn.com/FVWHCBSe6x9YHn66WNR-NdQR_TM=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7188/6d8544.png", MGTRADIO
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://popmi.my.id/tes.m3u8?id=7188
+
+#EXTINF:-1 group-title="📁 LOKAL VIP | AUTO" tvg-logo="https://thumbor.prod.vidiocdn.com/3GFOEW3T6W7kFYG2Xr2qPif05Io=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7792/54144b.png", JIZ FM
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://popmi.my.id/tes.m3u8?id=7792
+
+#EXTINF:-1 group-title="📁 LOKAL VIP | AUTO" tvg-logo="https://thumbor.prod.vidiocdn.com/0xaSzqfoAn6o-Y71lP0OEySfF9Q=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7283/2bf8b0.png", SWARA SEMARANG
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://popmi.my.id/tes.m3u8?id=7283
+
+#EXTINF:-1 group-title="📁 LOKAL VIP | AUTO" tvg-logo="https://thumbor.prod.vidiocdn.com/K28EwOI-fb9VtrxWR-_-FiJs5Q8=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7450/2839cb.jpg", Most FM
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://popmi.my.id/tes.m3u8?id=7450
+
+#EXTINF:-1 group-title="📁 LOKAL VIP | AUTO" tvg-logo="https://thumbor.prod.vidiocdn.com/ZJkMggi7WkrrBsVBBygut7UB0Ls=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9106/0287b9.png", CLASSY 103.4 FM
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://popmi.my.id/tes.m3u8?id=9106
+
+#EXTINF:-1 group-title="📁 LOKAL VIP | AUTO" tvg-logo="https://thumbor.prod.vidiocdn.com/RzMcSnWD3Aqt43Tr5Dti-xnrDFw=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7218/0454f1.png", Sushi Radio
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://popmi.my.id/tes.m3u8?id=7218
+
 
 
 
@@ -1552,6 +1896,26 @@ ________________________________________________________________________________
 ====================================▶EVENT BOLA/LIVE◀====================================================
 
 
+____________
+M LIVE 5
+
+#EXTINF:-1 group-title="▶EVENT BOLA/LIVE◀" tvg-id="" tvg-logo="https://iili.io/FWIr6GV.md.png",M Live 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
+
+__________
+M LIVE 6
+
+#EXTINF:-1 group-title="▶EVENT BOLA/LIVE◀" tvg-id="" tvg-logo="https://iili.io/FWIZOmP.md.png",M Live 6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
+https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
+
+
+
+
 #EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOo7bapBG6ozcfFsOpO1ilTsHjMDWCQgdw99Jq19nIdsHWJq1Pi4MoRHs&s=10" group-title="▶EVENT BOLA/LIVE◀", LIVE AFF U23
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
@@ -1567,6 +1931,7 @@ https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.m
 #EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
 ####https://zozotv.xyz:443/live/tonot@562/z562/45.ts
+http://103.153.246.42:4022/udp/239.2.2.28:3000
 https://zozotv.xyz:443/live/tonot@562/z562/46.ts
 http://013tv.com:8080/friptv/AwWjvV6QuXDY84xR5meJhk/162141
 https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/indosiar.m3u8
@@ -1786,7 +2151,7 @@ ________________________________________________________________________________
 _____
 🔴 LIVOLI DEVISI UTAMA)
 
-#EXTINF:-1 group-title="▶VOLLEY / EVENT ONLY◀" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThWFpWDH2GRdTHr8rjjFJ-ib1p5w4uCc02J75vwmbPNhoruarX8Ptmq8Rx&s=10", LiVOLI DU - 2025 (TERSEDIA SAAT LIVE)
+#EXTINF:-1 group-title="▶VOLLEY / EVENT ONLY◀" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThWFpWDH2GRdTHr8rjjFJ-ib1p5w4uCc02J75vwmbPNhoruarX8Ptmq8Rx&s=10", LiVOLI (Divisi Utama 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19488&type=drm
@@ -2132,18 +2497,13 @@ ________________________________________________________________________________
 
 ===========================================SPORTS 2 HD======================================================
 
+#EXTINF:-1 tvg-logo="https://mmatv-static-mvs-wtf.akamaized.net/thumbnail/preview/65c2228557b566830a64773b/maxres.jpeg" group-title="SPORTS 2 HD",MMA TV/PFL
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6334a574605f140007e233c4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2tBmF_qDeN3yYEbdlj-urFqByN59EITctS5QYskltfYiV2gihDudEE9Q&s=10" group-title="SPORTS 2 HD", AFROSPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 https://bintangstreaming.my.id/connect/index.m3u8?channel=afro&type=m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBYaigtB9_RmK4YahWmT0t-9tUEBMVr8QaRK0CT1dtfGqOvriqAk4ABgXV&s=10" group-title="SPORTS 2 HD", ARRYADIA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-https://cdn.live.easybroadcast.io/abr_corp/73_arryadia_k2tgcj0/corp/73_arryadia_k2tgcj0_240p/chunks_dvr.m3u8
 
 
 
@@ -2490,35 +2850,6 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 #KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
 #EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png",Peacock 1
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
-
-
-
-
-#EXTINF:-1 tvg-id="Prima Sport 1" group-title="SPORTS 2 HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/iymjt11656958292.png", PRIMA SPORTS 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://saruman1.tharen.cfd/000/
-https://saruman1.tharen.cfd/puk1/usergenrx0cir27aq.m3u8
-
-
-
-#EXTINF:-1 tvg-id="Prima Sport 2" group-title="SPORTS 2 HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/urbckf1656958338.png", PRIMA SPORTS 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://arwen1.panaka.cfd/000/
-https://arwen1.panaka.cfd/puk2/usergenrnd0clv03fyt.m3u8
-
-
-
-#EXTINF:-1 tvg-id="Prima Sport 3" group-title="SPORTS 2 HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/pirzmo1656958353.png", PRIMA SPORTS 3 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://iron1.jarvisx.cfd/000/
-https://iron1.jarvisx.cfd/puk3/usergenrx4t0l8sybkr.m3u8
-
-
-
-#EXTINF:-1 tvg-id="Prima Sport 4" group-title="SPORTS 2 HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/8yu0gp1656958366.png", PRIMA SPORTS 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://galandriel1.thobias.cfd/000/
-https://galandriel1.thobias.cfd/puk4/usergendx42x9qrnd.m3u8
 
 
 
@@ -3154,7 +3485,450 @@ ________________________________________________________________________________
 
 
 
-==================================================🔵BIOSKOP/MOVIES==================================================
+==================================================🔵BOX OFFICE==================================================
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VDL2ZHt/Alienoid.jpg" group-title="Box Office", Alienoid
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdn7iv.diebutx.com/bighlsstorage/2021/st4.google.co/2022/08/12/task1/e17430c8619d3de86c87720a2c67d84f/360p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/5x2KDd5R/Anight2023.jpg" group-title="Box Office", A Night of Soul Turning
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/04/A.Night.of.Soul.Turning.2023.mp4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/b5Cmr6b/Ambulance2022.jpg" group-title="Box Office", Ambulance
+https://www.googleapis.com/drive/v3/files/1nw4_xCSrz5g3ivpn7-gQSm_ruv6qxXix?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/6FRFIogh3zFnVWn7Z6zcYnIbRcX.jpg" group-title="Box Office", A Working Man
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Apr/14/A.Working.Man.2025.mp4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/uxYMN7egzwU9dQWmlm9tVTVpBbe.jpg" group-title="Box Office", Bullet Train Explosion
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Apr/14/Bullet.Train.Explosion.2025.mp4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/XVLzTJX/Badlanhunters.jpg" group-title="Box Office", Badland Hunters
+https://www.dropbox.com/scl/fi/8mifni3z2bpwplsvsj4jy/D21.FUN-Badland-Hunters-2024-1080p.mp4?rlkey=kh57gfr1xpkocv5td9i88oz8n&raw=1
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z65r52y/Ballerina2023.jpg" group-title="Box Office", Ballerina
+https://storage.dewanonton.online/hls/193b4445-8c6a-4a46-b560-bb58b5d8a074.mp4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/4JRVmHb/Beast2022.jpg" group-title="Box Office", Beast
+https://www.dropbox.com/s/kslicm2mqmk265s/dzifp-beast22.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LnpXg72/Bullettrain.jpg" group-title="Box Office", Bullet Train
+https://www.dropbox.com/s/jygwvbkeoki7ovp/Bullet%20Train.mp4?dl=0&raw=true&type=file.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Th37ZpJ/Blackadam2022.jpg" group-title="Box Office", Black Adam
+https://www.dropbox.com/s/kwpz2xcs6mbga2t/Black%20Adam.mp4?dl=0&raw=true&type=file.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0DgRJj0/Carter2022.jpg" group-title="Box Office", Carter
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdn7iv.diebutx.com/bighlsstorage/2021/st4.google.co/2022/08/01/task1/73e36ca8bf6be86fe46c8e65382b2bc2/720p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7GzdFkw/Creationofthegods.jpg" group-title="Box Office", Creation of the Gods : Kingdom of Storms
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2023/Nov/15/CREATION.OF.THE.GODS.I.KINGDOM.OF.STORMS.2023.mp4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Hd9zjX7/Damsel2024.jpg" group-title="Box Office", Damsel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Mar/07/Damsel.2024.mp4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Cfr7GTz/Diablo2025.jpg" group-title="Box Office", Diablo (2025) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jun/06/Diablo.2025.mp4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nbzwJ4q/Dune2.jpg" group-title="Box Office", Dune : Part Two
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Apr/03/Dune.Part.Two.2024.mp4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8ZKQ7Z/Dontlookup.jpg" group-title="Box Office", Don't Look Up
+https://www.googleapis.com/drive/v3/files/1jFJCWH9s9ofF_4Fz29lnR-UC3Dui9TRs?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/v1y6s7S/Thelosttalisman.jpg" group-title="Box Office", Dr. Cheon and Lost Talisman
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Jan/03/Dr.Cheon.and.Lost.Talisman.2023.mp4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/kS4ZRrz/Emilythecriminal2022.jpg" group-title="Box Office", Emily the Criminal
+https://www.googleapis.com/drive/v3/files/1yrzKQoJMNbo26S3eyY85p8ngGsdoUMp0?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/KL71P1Z/Enolaholmes2022.jpg" group-title="Box Office", Enola Holmes 2
+https://storage.dewanonton.online/hls/1723afac-ac0f-489c-9beb-d9f574620170.mp4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C2q4s1h/Escapekor2024.jpg" group-title="Box Office", Escape 2024
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Aug/17/Escape.2024.mp4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TWw6q7v/Eternals.jpg" group-title="Box Office", Eternals
+https://www.googleapis.com/drive/v3/files/1LadjcGGGf2_-wy1G_FWGOPyOV_7QabDP?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/F5hYB6q/Fall2022.jpg" group-title="Box Office", Fall
+https://www.dropbox.com/s/p1u2dur8ikkekj2/dzifp-fail.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mxZV344/Final-Dest2025.jpg" group-title="Box Office", Final Destination: Bloodlines (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jun/09/Final.Destination.Bloodlines.2025.mp4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RGMvSfkn/Ballerina2025.jpg" group-title="Box Office", From the World of John Wick: Ballerina (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jul/01/Ballerina.2025.mp4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/wz6rtNQ/Fresh2022.jpg" group-title="Box Office", Fresh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://www.dropbox.com/s/a3l5kgejo49xz8b/fresh%202022.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/dKv9RMS/Fantasticbeasts-2022.jpg" group-title="Box Office", Fantastic Beasts: The Secrets of Dumbledore
+https://www.googleapis.com/drive/v3/files/1YZlxUE9w5j7X0ufnqU6jO-PHlbVmDPhq?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Lz0N1Dvy/Fountainof-Youth2025.jpg" group-title="Box Office", Fountain of Youth (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mei/19/Fountain.of.Youth.2025.mp4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/kD9NvyZ/Ghostbusters2024.jpg" group-title="Box Office", Ghostbusters : Frozen Empire
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Apr/11/Ghostbusters.Frozen.Empire.2024.mp4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Gn6M8bJ/Godzillaxkong.jpg" group-title="Box Office", Godzilla x Kong : The New Empire
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/May/07/Godzilla.x.Kong.The.New.Empire.2024.mp4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/2cxhvwyEwRlysAmRH4iodkvo0z5.jpg" group-title="Box Office", Gladiator II
+https://cloud.hownetwork.xyz/xxx/JRQoKiwYAy4wfB4lbgJmanZVKyIwCxY4HQkoe3UCNG8mT30/32/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2hfTkjm/Guardians3.jpg" group-title="Box Office", Guardians of Galaxy Vol.3
+https://www.nonton168.com/movies/desember2022/G.o.t.G.V.3.2023.720p.WEB-DL.DDP5.1.Atmos.H.264-CMRG.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/jry8Mt4/gran-turismo.jpg" group-title="Box Office", Gran Turismo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdn7iv.diebutx.com/bighlsstorage/2021/st7.google.co/2023/08/12/task1/a8095fd1dac8f45f80e187737429712f/360p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RkCKmnrG/Harbin2024.jpg" group-title="Box Office", Harbin
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Apr/04/Harbin.2024.mp4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ycYcPVwW/Dragon2025.jpg" group-title="Box Office", How to Train Your Dragon (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jul/11/How.to.Train.Your.Dragon.2025.mp4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1Y0cFMzq/Innocent-Voices2025.jpg" group-title="Box Office", Innocent Voices (2005)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jul/13/Juegos.de.Seduccion.2025.mp4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/6vd7xWF/Iss2023.jpg" group-title="Box Office", I.S.S
+https://www.dropbox.com/scl/fi/r1ft909dwgaj3br1zec15/D21.FUN-I.S.S.-2024-1080p.mp4?rlkey=iusuj72iyx20cyv5hxe3gb9n1&raw=1
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mDr5p5L/Johnwichchap4.jpg" group-title="Box Office", John Wick Chapter 4
+https://storage.dewanonton.online/hls/3e3d79c3-a19d-46c3-a231-c3df79c92673.mp4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/zS0Z3Px/Kingdomplanetoftheapes.jpg" group-title="Box Office", Kingdom of the Planet of the Apes
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Jul/02/Kingdom.of.the.Planet.of.the.Apes.2024.mp4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/J5MCNcg/Kungfupanda4.jpg" group-title="Box Office", Kung Fu Panda 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Apr/05/Kung.Fu.Panda.4.2024.mp4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fFRcDdg/Landofbad2024.jpg" group-title="Box Office", Land Of Bad
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Feb/07/Land.of.Bad.2024.mp4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/H7Nzh9f/Lastnightinsoho.jpg" group-title="Box Office", Last Night In Soho
+https://www.googleapis.com/drive/v3/files/12NWts_1iYmgpps7Mds7bv46hFbyWn6jH?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TH0XhP6/Lift2024.jpg" group-title="Box Office", Lift
+https://www.dropbox.com/scl/fi/y3gsnyp96qifj74i0mcn9/D21.FUN-Lift-2024-1080p.mp4?rlkey=b1dbqvs5r2gvtb4uz493l104c&raw=1
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p6GBbWrt/M3-GAN2025.jpg" group-title="Box Office", M3GAN 2.0 (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jul/11/M3GAN.2.0.2025.mp4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0y7Yrgnh/Missing-Child-Videotape2025.jpg" group-title="Box Office", Missing Child Videotape (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jul/07/Missing.Child.Videotape.2025.mp4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/jkvJm7j/Mortalkombat.jpg" group-title="Box Office", Mortal Kombat 2021
+https://storage.dewanonton.online/hls/28733c36-06bd-4488-913f-03eaec990ad4.mp4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/g3PLc1Y/jb007.jpg" group-title="Box Office", No Time To Die
+https://www.googleapis.com/drive/v3/files/10-38KxuwzerTjngtuxBhwsWkJWU7kPvP?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/4jjMqJc/Nobody2021.jpg" group-title="Box Office", Nobody
+https://www.dropbox.com/s/l5t83q7vvzqwxz5/D21.FUN-Nobody-2021-1618485858.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Cb7b0jb/Plane2023.jpg" group-title="Box Office", Plane
+https://www.dropbox.com/s/bmvat7xcbxxvx4j/D21.FUN-Plane-2023-1675423071.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/gvzWVzr/Prey2022.jpg" group-title="Box Office", Prey
+https://storage.dewanonton.online/hls/c3f30d62-957b-410b-9aa3-7baaff76979b.mp4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0XjkkZ6/Rebelmoon2023.jpg" group-title="Box Office", Rebel moon : Part One – A Child of Fire
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2023/Dec/15/Rebel.Moon.Part.One.-.A.Child.of.Fire.2023.mp4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HGBsYCp/Rednotice2021.jpg" group-title="Box Office", Red Notice
+https://www.googleapis.com/drive/v3/files/1EYQ9HGKtm_3JGP9XeRKxqE-84EwoJKUt?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/wg17DW1/Restinpeace2024.jpg" group-title="Box Office", Rest In Peace
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Mar/15/Rest.in.Peace.2024.mp4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/afWnRF7mK7yNoJjx4AsoUdq1nqV.jpg" group-title="Box Office", Reversi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cloud.hownetwork.xyz/xxx/MB0_KzcKHmxwYUV4bkczOiYUFhYaHU95czJFfHQ/32/480.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZJW895j/Samaritan2022.jpg" group-title="Box Office", Samaritan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdn7iv.diebutx.com/bighlsstorage/2021/st4.google.co/2022/08/09/task1/e52e90cd5fee01cf0871fe201cfd853b/720p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/MgbJxzq/Scoop2024.jpg" group-title="Box Office", Scoop
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Apr/03/Scoop.2024.mp4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RQZ7R7N/Seoulvibe2022.jpg" group-title="Box Office", Seoul Vibe
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdn7iv.diebutx.com/bighlsstorage/2021/st4.google.co/2022/08/09/task1/8a0b05eb3f3db4587915ac817fb30e15/720p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hyX6D7H/Shirley2024.jpg" group-title="Box Office", Shirley
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Mar/12/Shirley.2024.mp4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/WK5bL9F/Sisu.jpg" group-title="Box Office", Sisu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdn7iv.diebutx.com/bighlsstorage/2021/st6.google.co/2023/04/11/task1/1984998458e153fea96f9857a163d848/360p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/yVmNJYv/skywalkers2024.jpg" group-title="Box Office", Skywalkers : A Love Story
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Jul/10/Skywalkers.A.Love.Story.2024.mp4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mqsRnkv/Societyofthesnow.jpg" group-title="Box Office", Society of the Snow
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Feb/03/Society.of.the.Snow.2023.mp4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/wyGf8Qm/Sonicthehedgehog2.jpg" group-title="Box Office", Sonic The Hedgehog 2
+https://www.dropbox.com/s/5fneia8laodihko/Sonic%20the%20Hedgehog%20%282020%29.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/nyEr1VqvKx1YiesMC3oTB2fZvpY.jpg" group-title="Box Office", Sonic The Hedgehog 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/14/Sonic.the.Hedgehog.3.2024.mp4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HDng4DF/Spaceman2024.jpg" group-title="Box Office", Spaceman
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Mar/02/Spaceman.2024.mp4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HXnfbk9/Sugar2022.jpg" group-title="Box Office", Sugar
+https://www.dropbox.com/s/mig53ifo0k9ufs4/dzifp-sugar2022.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/p12Syvk/Transformers2023.jpg" group-title="Box Office", Transformers : Rise of The Beasts
+https://www.dropbox.com/scl/fi/87xs8cu5f8mk5zlbx905t/2.-Transformers-Rise-of-the-Beasts-2023-720p.mp4?rlkey=n3udlhyq3ounsffalsutdmcp4&raw=1
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/52KXxnF/Beekeeper.jpg" group-title="Box Office", The Beekeeper
+https://www.dropbox.com/scl/fi/q9c4f4qhevwdksi4gm939/D21.FUN-The-Beekeeper-2024-1080p.mp4?rlkey=82qn0t38lzyctjxi350vm0ejv&raw=1
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/yhf1BCH/Theequalizer3.jpg" group-title="Box Office", The Equalizer 3
+https://storage.dewanonton.online/hls/72e6b31a-aa1d-46e7-8626-420fa80e829f.mp4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/7iMBZzVZtG0oBug4TfqDb9ZxAOa.jpg" group-title="Box Office", The Gorge
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/09/The.Gorge.2025.mp4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/YTkLLzJ/D3-Musketeers.jpg" group-title="Box Office", The Three Musketeers : D’Artagnan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdn7iv.diebutx.com/bighlsstorage/2021/st6.google.co/2023/07/03/task1/88bac1154392428b943fa7bd9712b50b/720p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mNvv3Vp/Thepopex2023.jpg" group-title="Box Office", The Pope's Exorcist
+https://www.googleapis.com/drive/v3/files/1dc4y6bhfhS939gCzWlmT7rdStSMn6DD4?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/9mbDr6DQ/Theprosecutor.jpg" group-title="Box Office", The Prosecutor
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Apr/04/The.Prosecutor.2024.mp4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/rdRxy0G/Theroundup2023.jpg" group-title="Box Office", The Roundup : No Way Out
+https://www.dropbox.com/scl/fi/bemyvuf3w25iff6es5r6v/D21.FUN-The-Roundup-No-Way-Out-2023-1080p.mp4?rlkey=mc4vr2wv8cic9hj3dsuql5k2t&raw=1
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BT7fB7D/Theroundup2024.jpg" group-title="Box Office", The Roundup : Punishment
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Jul/01/The.Roundup.Punishment.2024.mp4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Q8g8KSb/Texaschainsawmassacre.jpg" group-title="Box Office", Texas Chainsaw Massacre
+https://www.googleapis.com/drive/v3/files/1CBsg6F7ULpFXHgQljmS22hLALRLFbhfc?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/YXP5SWG/Theadamproject.jpg" group-title="Box Office", The Adam Project
+https://www.googleapis.com/drive/v3/files/1-GLv8PKNSlVz2oajbyuVsBLuXoZ8bvK8?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/jRdxyW5ZmhD3ycStlb7gwOewTuE.jpg" group-title="Box Office", The Electric State
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/08/The.Electric.State.2025.mp4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/rHbKpQH/Topgunmaverick-2022.jpg" group-title="Box Office", Top Gun: Maverick
+https://storage.dewanonton.online/hls/5e71b586-91a1-4c67-88ac-73de6da6e9f2.mp4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0sVNbrR/Thelastduel2021.jpg" group-title="Box Office", The Last Duel
+https://www.googleapis.com/drive/v3/files/1oceHJVSyup-e2JiA93Bt9xPHNEQw0Cxa?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/R3tS4Sq/Thenorthman-2022.jpg" group-title="Box Office", The Northman
+https://storage.dewanonton.online/hls/bead93e6-31b2-4982-b091-bad69020a20c.mp4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/PrNSXTZ/Theschoolforgoodandevil.jpg" group-title="Box Office", The School for Good and Evil
+https://storage.dewanonton.online/hls/4babbbfd-b3af-4061-a831-e2a80aa654db.mp4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/wLzJqnf/Theunforgivable.jpg" group-title="Box Office", The Unforgivable
+https://www.googleapis.com/drive/v3/files/1ojeqXO3L5jHB6MglZIUqdAy-pziyBiXw?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/YDfJP2r/Thor2022.jpg" group-title="Box Office", Thor: Love and Thunder
+https://storage.dewanonton.online/hls/e399656b-e83d-4918-9edc-5b275163fdde.mp4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ggCGsd6/unlocked2023.jpg" group-title="Box Office", Unlocked
+https://www.dropbox.com/s/50xasxs7dpqp892/dzifp-unlocked2023.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2W5jZNN/Uprising.jpg" group-title="Box Office", Uprising
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Oct/11/Uprising.2024.mp4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HrjNx1L/Venom2021.png" group-title="Box Office", VENOM: Let There Be Carnage
+https://www.googleapis.com/drive/v3/files/1ox0KuZNTZAliWoEh6hnOISUDokaJYdrY?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/gRkgDsw/Venom2024.jpg" group-title="Box Office", VENOM: The Last Dance
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Dec/04/Venom.The.Last.Dance.2024.mp4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7d2YXVtr/11Rebels.jpg" group-title="Box Office", 11 Rebels
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/12/11.Rebels.2024.mp4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rGb7MmP5/Yadang-The-Snitch2025.jpg" group-title="Box Office", Yadang: The Snitch (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jun/16/Yadang.The.Snitch.2025.mp4/index.m3u8
+
+
+________
+BOX OFFICE 2025
+
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/zZCjLIwNgjx0yVDG7R4qygfalSH.jpg" group-title="Box Office | 2025",Armed (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cloud.hownetwork.xyz/xxx/IwokKyFURXFwZFo7JlIyNB0gFigkHEV1dGhD/32/480.m3u8
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/eujLbO0kf1eqWC8XpHUJdtAVW2J.jpg" group-title="Box Office | 2025",Jewel Thief: The Heist Begins (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cloud.hownetwork.xyz/xxx/KB0-KylUAykrNBFhN1gzdSodID0xVBUkJTgZP24CZmp3VT4rJx0bHhoOQX51BTRrIBw/32/480.m3u8
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/bEiJBcwdR4oOTCgstLkqTUja58p.jpg" group-title="Box Office | 2025",Havoc (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cloud.hownetwork.xyz/xxx/Khk_ISZURXFwZFo7JlIyNB0gFixxTEdydWBP/32/480.m3u8
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/ak0HlRVsVzh8mvwIUZpZr0z6uqW.jpg" group-title="Box Office | 2025",Revelations (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cloud.hownetwork.xyz/xxx/d410f0284e83284bba45cbf392635aca/25/480.m3u8
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/7YZ0JRRD7mt8Ov9eIEGWMbDybx2.jpg" group-title="Box Office | 2025",Silent Zone (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cloud.hownetwork.xyz/xxx/e0c6be20c77680660c3e6f3ad829a67a/25/480.m3u8
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/1tA8FjzfwxwZIKom7Jh36CPoqo0.jpg" group-title="Box Office | 2025",Bleed for Past (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cloud.hownetwork.xyz/xxx/9d010da67179608d78d6c8b32f93f0a7/31/480.m3u8
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/tSee9gbGLfqwvjoWoCQgRZ4Sfky.jpg" group-title="Box Office | 2025",G20 (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cloud.hownetwork.xyz/xxx/136af2febe914252832a4e85aafbf7ef/31/480.m3u8
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/vmTg5jt6sXsv6GNcAnwqclarFgQ.jpg" group-title="Box Office | 2025",Ash (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cloud.hownetwork.xyz/xxx/IwshY3dJRXRvJhIuJ1wJAB1PKHomTxMncw/32/480.m3u8
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/6FRFIogh3zFnVWn7Z6zcYnIbRcX.jpg" group-title="Box Office | 2025",A Working Man (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Apr/14/A.Working.Man.2025.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/uxYMN7egzwU9dQWmlm9tVTVpBbe.jpg" group-title="Box Office | 2025",Bullet Train Explosion (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Apr/14/Bullet.Train.Explosion.2025.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/pymBV1KTRqda9I3HkVdB08ZiUyZ.jpg" group-title="Box Office | 2025",Legends of the Condor Heroes: The Gallants (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdn1.turboviplay.com/data1/680669f2e9f93/680669f2e9f93720.m3u8
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/h87bgIhs4keL005Ch5aeKhnaAIL.jpg" group-title="Box Office | 2025",iHostage (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cloud.hownetwork.xyz/xxx/KxAmPTEYECRvY0d-dh0hPSAcJREdJhQgemBDf3cH/32/480.m3u8
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/edKpE9B5qN3e559OuMCLZdW1iBZ.jpg" group-title="Box Office | 2025",Mickey 17 (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cloud.hownetwork.xyz/xxx/809b13488e01e8c348f949128d837a63/31/480.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/spCVMv0N/Blackbag2025.jpg" group-title="Box Office | 2025",Black Bag (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/17/Black.Bag.2025.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/5fg98cVo7da7OIK45csdLSd4NaU.jpg" group-title="Box Office | 2025",The Life List (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cloud.hownetwork.xyz/xxx/b3adc5e80e4d0c9c91649a628c35f858/31/480.m3u8
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/93OWlI9Ax5v87MFFlpq8Y3eR38Y.jpg" group-title="Box Office | 2025",Red Blood Rescue (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cloud.hownetwork.xyz/xxx/68f90ffe371d3ee777b29cc7fb319fcc/31/480.m3u8
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/39jIr3A4ScUeGxFdMeARYKNxTgU.jpg" group-title="Box Office | 2025",Holland (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cloud.hownetwork.xyz/xxx/a2501462f7d8fe5794b785a68a0fbe67/31/480.m3u8
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/5B7Px0GfJwNMRD5PWJW3d0seo7O.jpg" group-title="Box Office | 2025",The Cursed Village (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cloud.hownetwork.xyz/xxx/589950dc64938c61470103cecd833c49/25/480.m3u8
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/3W1PZYEiDXWLLjLCMUbRPfjHxmq.jpg" group-title="Box Office | 2025",Delicious (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cloud.hownetwork.xyz/xxx/7e8ed932c91ad20486a3e617515578c6/25/480.m3u8
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/hGaUNLF5VZbg9ovPTyjm9Rv5xWz.jpg" group-title="Box Office | 2025",Plankton: The Movie (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cloud.hownetwork.xyz/xxx/4a72633195691748de4ca2a1b82a3e52/25/480.m3u8
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/2WoKKvmRrEcTlrhZiRnwD2rGq0I.jpg" group-title="Box Office | 2025",Green Snake: The Origin (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cloud.hownetwork.xyz/xxx/62e6f0d9dc50c29f921681b6a075dd0c/25/480.m3u8
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/jRdxyW5ZmhD3ycStlb7gwOewTuE.jpg" group-title="Box Office | 2025",The Electric State (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cloud.hownetwork.xyz/xxx/99f9ebdf7b923b28faa345ec6bd0d33e/25/480.m3u8
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/Ad0ZK9wUOKjyB8J90JvMUh0TQ4E.jpg" group-title="Box Office | 2025",Dog Man (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cloud.hownetwork.xyz/xxx/64a1451c538da03c8d0d6e991f634d72/25/480.m3u8
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/9Qv16IqRfz4tilsHBRyWiufNy4D.jpg" group-title="Box Office | 2025",The Story of Detective Zhan Zhao (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cloud.hownetwork.xyz/xxx/5d9c1bdd4e5124001fe42a487d19b350/25/480.m3u8
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/AnDwpI8dY8iqJVUwVS5UotYAbB1.jpg" group-title="Box Office | 2025",Squad 36 (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cloud.hownetwork.xyz/xxx/279ae25c0015cb4f6054d37ca0ef58a2/25/480.m3u8
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/fQ9hzto0cUuxjfzqNAiAnNJo8O7.jpg" group-title="Box Office | 2025",Demon City (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cloud.hownetwork.xyz/xxx/bffc541e7dc7cdd149fbb7592d0b0d84/25/480.m3u8
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/lI2uFlSEkwXKljqiry7coaJ6wIS.jpg" group-title="Box Office | 2025",Counterstrike (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/01/Counterstrike.2025.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/tHkFVhZji6o9UyHXezAeFma8IOW.jpg" group-title="Box Office | 2025",Into the Deep (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cloud.hownetwork.xyz/xxx/5fe9226824f50c1ad6d195d6ca09df43/25/480.m3u8
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/ttN5D6GKOwKWHmCzDGctAvaNMAi.jpg" group-title="Box Office | 2025",My Fault London (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cloud.hownetwork.xyz/xxx/41cc70d46e18a4c07667a360cee3baf5/25/480.m3u8
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/sf6j1SbgDf7VTjL1MRq5MAQSOyE.jpg" group-title="Box Office | 2025",The Bayou (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/12/The.Bayou.2025.mp4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/x4nWnfgJvL045rcUCSJzfgIIY9i.jpg" group-title="Box Office | 2025",Fight or Flight (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/02/Fight.or.Flight.2025.mp4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/zNx92KgGTJrkmL1PatGYSg2rTMR.jpg" group-title="Box Office | 2025",Larissa: The Other Side of Anitta (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/03/Larissa.The.Other.Side.of.Anitta.2025.mp4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/7iMBZzVZtG0oBug4TfqDb9ZxAOa.jpg" group-title="Box Office | 2025",The Gorge (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cloud.hownetwork.xyz/xxx/dbbaaef69a7259a80521c2a811010e4c/25/480.m3u8
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/qtOGsZoLW7QceqKmsOy5nSM6Aik.jpg" group-title="Box Office | 2025",Game Changer (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/06/Game.Changer.2025.mp4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5T9WR7vIOnHm6xhVt5zBuPbBgt1.jpg" group-title="Box Office | 2025",The Gardener (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/06/The.Gardener.2025.mp4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/znlcaqgOppgEl7eHiTYo55gD8Fy.jpg" group-title="Box Office | 2025",Bodyguard 3 (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/06/Bodyguard.3.2025.mp4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ee9iNQi91kpIkdfsAiGmJO7QdSF.jpg" group-title="Box Office | 2025",With You in the Future (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/06/With.You.in.the.Future.2025.mp4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/tEk8ZlboBcPLwO1npch7pQSu0Br.jpg" group-title="Box Office | 2025",Mouse Of Horrors (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/06/Mouse.of.Horrors.2025.mp4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/v313aUGmMNj6yNveaiQXysBmjVS.jpg" group-title="Box Office | 2025",Alarum (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cloud.hownetwork.xyz/xxx/4dc06f0f2e56e45fe535bf013836348d/26/480.m3u8
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/3L3l6LsiLGHkTG4RFB2aBA6BttB.jpg" group-title="Box Office | 2025",Back in Action (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cloud.hownetwork.xyz/xxx/d769de49244226de6d1ed31c966983ac/26/480.m3u8
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/kzZjCmum13xtqEGNZ9GUvrIlJoO.jpg" group-title="Box Office | 2025",Life of Belle (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cloud.hownetwork.xyz/xxx/e822866a1ac9fb8be91a4149a9b45515/26/480.m3u8
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/cuPqxATt872rKIR1WZI83TcpKw6.jpg" group-title="Box Office | 2025",Man with No Past (2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cloud.hownetwork.xyz/xxx/3f48d48213660df0152f4908e0f72362/26/480.m3u8
 
 
 
@@ -5539,25 +6313,6 @@ https://stream-node1.rri.co.id/streaming/41/8941/chlima.mp3
 
 
 _____________________________
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
