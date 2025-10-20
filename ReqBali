@@ -341,21 +341,31 @@ https://scontent-cgk2-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQNURuD_PAKqdL3tlYmvQhrTJIn
 
 
 
-#EXTINF:-1 group-logo="https://i.ytimg.com/vi/pQty6kFefsc/hqdefault.jpg",YOUTUBE Channel
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/pQty6kFefsc/hqdefault.jpg" group-title="Indonesia Channels",🔴 LIVE NEW SATRIA MUSIC
+#EXTINF:-1 group-logo="https://i.ytimg.com/vi/O3vCdOv1PDc/hqdefault.jpg",YOUTUBE Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/O3vCdOv1PDc/hqdefault.jpg" group-title="Indonesia Channels",🔴 LIVE KETOPRAK GILAR TRI BUDOYO
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1760987950/ei/zjb2aJg2rICO4w-Y0MKADA/ip/160.22.128.18/id/xxusJyKsk7M.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51631270/txs/51631264%2C51631265%2C51631266%2C51631267%2C51631268%2C51631269%2C51631270%2C51631271%2C51631272/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/ATw7iSWajOB9SsLSotbCZ0ix9P-Vo1W28RCAscHyAFiS70Rs0D-wrmAPusO0M-EY3H88cZ7Hyr_7YO7i/spc/hcYD5WPGeiiOMOS7aGym-ElggFkHyPvWA6MqJmpbqqdI0Lqsh97hwyl-jh4nWsrtAh7k5Tn9R9VUmQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51331020%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgLuTIs_yqfSvUFkzvj9hHILefnAv1LYghZrXCYDI3pY8CIHblnT9iXKgZpeUur8bFOK0fFu4mIqR7sqH7JCGXeZKx/file/index.m3u8
+
 
 
 
 
 #EXTINF:-1 group-logo="https://i.ytimg.com/vi/O3vCdOv1PDc/hqdefault.jpg",YOUTUBE Channel
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/O3vCdOv1PDc/hqdefault.jpg" group-title="Indonesia Channels",🔴 LIVE CAMPURSARI ROMO WILIS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/O3vCdOv1PDc/hqdefault.jpg" group-title="Indonesia Channels",🔴 LIVE CAMPURSARI KENCANA WUNGU
 
 
 
 
 
-#EXTINF:-1 group-logo="https://i.ytimg.com/vi/YGzzBI9kUX4/mqdefault.jpg",YOUTUBE Channel
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/YGzzBI9kUX4/mqdefault.jpg" group-title="Indonesia Channels",🔴 LIVE SM MUSIC
+
+#EXTINF:-1 group-logo="https://i.ytimg.com/vi/O3vCdOv1PDc/hqdefault.jpg",YOUTUBE Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/O3vCdOv1PDc/hqdefault.jpg" group-title="Indonesia Channels",🔴 LIVE SM MUSIK (CAMPURSARI)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1760988731/ei/2zn2aOTTBOXg29gP6_GtyQk/ip/160.22.128.18/id/hCVbyurGjnw.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51631272/txs/51631264%2C51631265%2C51631266%2C51631267%2C51631268%2C51631269%2C51631270%2C51631271%2C51631272/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/ATw7iSVAEBAhWDgCsS9SuZCSr0sDKN0RE9bx62z-AMabXfd-ulx_3rdpKO9IA7ga63CWx7MrYelYSJps/spc/hcYD5eCIGigBhSjr7ZStVwbH1o7e6goa0cufXj46D7hxfJYjMRntwVI8qzzis7uL1puXRYZGCKRXaQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51331020%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgLaA8se5RG9zgUF5usyT5u7uAgDJcvTcgfsMtI51OhMECIQCUADoLt_-521RadFn48dsFx_m9aE0he3GmC5YCHA-d6Q%3D%3D/file/index.m3u8
+
+
+
+#EXTINF:-1 group-logo="https://i.ytimg.com/vi/O3vCdOv1PDc/hqdefault.jpg",YOUTUBE Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/O3vCdOv1PDc/hqdefault.jpg" group-title="Indonesia Channels",🔴 LIVE LARIS MANIS AUDIO (DUWE GAWE)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1760988861/ei/XTr2aImiMqWnvcAP1cjUqQw/ip/160.22.128.18/id/1yWkc9ycwoU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/ATw7iSXVMYK4FcLNKEIFr7aywaWQq_9IarJqlz5IzLyctlmY3GFe_im-OYlKOZ5ns9wHT9ACo_0mMk38/spc/hcYD5d-DWsiosoqkZiP18TU39TQrqns99euKWIgAlV2XCKBUBQOGR4B2_IBgplRywwzwPg/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51331020%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgKYV8pTpCpbRSa30oqpsMDxwCW3J_MPDZMnCqLqKZHdACIQDb1r4c5tJ39HU6heCtyU5NzBeJh8qaZHOIz0iX7A84Gw%3D%3D/file/index.m3u8
 
 
 
