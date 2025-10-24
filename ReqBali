@@ -649,34 +649,6 @@ https://warningfm.github.io/v3/live/str/id/575eeb9f08dc8db.m3u8
 
 
 
-#EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaYvAdYXz6gsJMrf12wi7a4YuDP85y292lbc8QQCju4sEzI9ARyNrLa1M&s=10",AFC U-23 Asian Cup 2026 (TERSEDIA SAAT LIVE)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19486&type=drm
-###https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19486&type=dash
-
-
-
-
-#EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174be4f342858e9/295eb53a7aa04fbca2eeb58a3fab1f2f.png", LIGA BRI (A) - Super League (TERSEDIA SAAT LIVE)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=205&type=drm
-###https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=205&type=dash
-
-
-
-
-#EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174be4f342858e9/295eb53a7aa04fbca2eeb58a3fab1f2f.png", INDOSIAR_SPORT  (TERSEDIA SAAT LIVE)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://playlist123.vercel.app/api/vdo/?stream=live&id=19354&type=drm
-####https://playlist123.vercel.app/api/vdo.mpd?stream=live&id=19354&type=dash
-
-
-
-
-
 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
 
 
@@ -693,22 +665,11 @@ https://warningfm.github.io/v3/live/str/id/575eeb9f08dc8db.m3u8
 https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/indos.m3u8
 
 
-#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="Indonesia Channels" tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/720x0/webp/photo/2025/08/11/3017177497.jpg" ch-number="1",PIALA KEMERDEKAAN (INDOSIAR_AUTO)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=19367&type=drm
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-######https://seprai.jasoncreak8.workers.dev/play.mpd?id=19367&type=dash
 
 
-
-#EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1280px-Indosiar_2015.svg.png", INDOSIAR_FHD (Live on)
-#######http://filex.me:8080/live/@B1gM0/qsavC6NPSm/302264.ts
-
-
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1280px-Indosiar_2015.svg.png" group-title="Indonesia Channels",INDOSIAR_SD (LIVE ONLY)
-#EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
-###########https://gaje0525.edgemaxcdn.org/live/m5l1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Gj8aW6S6ykzNKy7as_gAybv8pxU=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19046/sin-po-tv-c5cad0.jpg", group-title="Indonesia Channels", SIN PO TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://popmi.my.id/tes.m3u8?id=19046
 
 
 
