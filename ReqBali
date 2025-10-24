@@ -362,15 +362,25 @@ https://op-group1-swiftservehd-1.dens.tv/h/h208/index.m3u8?app_type=web&userid=l
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/zxoeLYbQpr4/mqdefault.jpg" group-title="Indonesia Channels",🔴 LIVE JADWAL MDM (20:30 WIB) / ADILA MUSIC
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+#https://op-group1-swiftservehd-1.dens.tv/h/h108/S4/mnf.m3u8
+#https://op-group1-swiftservehd-1.dens.tv/h/h208/02.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h208/index.m3u8?app_type=web&userid=lite&chname=channel-jowo
+
+
+
+
+
 #EXTINF:-1 group-logo="https://i.ytimg.com/vi/O3vCdOv1PDc/hqdefault.jpg",YOUTUBE Channel
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/O3vCdOv1PDc/hqdefault.jpg" group-title="Indonesia Channels",🔴 LIVE HADROH SEMUT IRENG
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/O3vCdOv1PDc/hqdefault.jpg" group-title="Indonesia Channels",🔴 LIVE
 
 
 
 
 #EXTINF:-1 group-logo="https://i.ytimg.com/vi/O3vCdOv1PDc/hqdefault.jpg",YOUTUBE Channel
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/O3vCdOv1PDc/hqdefault.jpg" group-title="Indonesia Channels",🔴 LIVE LARIS MANIS AUDIO (DUWE GAWE)
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/O3vCdOv1PDc/hqdefault.jpg" group-title="Indonesia Channels",🔴 LIVE
 
 
 
