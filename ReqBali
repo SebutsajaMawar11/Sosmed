@@ -352,11 +352,9 @@ https://op-group1-swiftservehd-1.dens.tv/h/h208/index.m3u8?app_type=web&userid=l
 
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/fZNLMElKn7g/mqdefault.jpg" group-title="Indonesia Channels",🔴 LIVE JADWAL MDM (20:30 WIB) / ARSENA CAMPURSARI
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-#https://op-group1-swiftservehd-1.dens.tv/h/h108/S4/mnf.m3u8
-#https://op-group1-swiftservehd-1.dens.tv/h/h208/02.m3u8
-https://op-group1-swiftservehd-1.dens.tv/h/h208/index.m3u8?app_type=web&userid=lite&chname=channel-jowo
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1761330180/ei/pG_7aNeODdOPssUPwvvs0AE/ip/160.22.128.18/id/fZNLMElKn7g.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AdEuB5SlX0nNCjheroU-e1IYiHxBBF0xK-WrwPQATuyCd9_Owk-4JDvbFlJF3JtOk6oQrjU1SHx8zxbi/spc/6b0G_AchKhNZyd8wfuunJydfBSAZOMkxWAOvs2RjXNt2RZ2rvu2Q/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgPqUnoBUBoMDH1itTODcqkDt_fehWN7nx0amfOvGRzF4CIQDmcHLpITHAcj9dlyJQGSPsLi2ttMCOLF9H8uGhS7jl5A%3D%3D/file/index.m3u8
+
+
 
 
 
@@ -381,6 +379,12 @@ https://op-group1-swiftservehd-1.dens.tv/h/h208/index.m3u8?app_type=web&userid=l
 
 #EXTINF:-1 group-logo="https://i.ytimg.com/vi/O3vCdOv1PDc/hqdefault.jpg",YOUTUBE Channel
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/O3vCdOv1PDc/hqdefault.jpg" group-title="Indonesia Channels",🔴 LIVE
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+#https://op-group1-swiftservehd-1.dens.tv/h/h108/S4/mnf.m3u8
+#https://op-group1-swiftservehd-1.dens.tv/h/h208/02.m3u8
+########https://op-group1-swiftservehd-1.dens.tv/h/h208/index.m3u8?app_type=web&userid=lite&chname=channel-jowo
+
 
 
 
