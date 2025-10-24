@@ -341,15 +341,22 @@ https://scontent-cgk1-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQNURuD_PAKqdL3tlYmvQhrTJIn
 
 
 
-#EXTINF:-1 group-logo="https://i.ytimg.com/vi/C9Eh2V68vIA/mqdefault.jpg",YOUTUBE Channel
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/C9Eh2V68vIA/mqdefault.jpg" group-title="Indonesia Channels",🔴 LIVE ARABELLA MUSIC
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QjeVlLgFqYw/mqdefault.jpg" group-title="Indonesia Channels",🔴 LIVE JADWAL MDM (20:30 WIB) / KENCANA WUNGU CAMPURSARI
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+#https://op-group1-swiftservehd-1.dens.tv/h/h108/S4/mnf.m3u8
+#https://op-group1-swiftservehd-1.dens.tv/h/h208/02.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h208/index.m3u8?app_type=web&userid=lite&chname=channel-jowo
 
 
 
 
-
-#EXTINF:-1 group-logo="https://i.ytimg.com/vi/3B1MPVlBrAU/mqdefault.jpg",YOUTUBE Channel
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/3B1MPVlBrAU/mqdefault.jpg" group-title="Indonesia Channels",🔴 LIVE NIKEN SALINDRI feat KENCANA WUNGU
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/fZNLMElKn7g/mqdefault.jpg" group-title="Indonesia Channels",🔴 LIVE JADWAL MDM (20:30 WIB) / ARSENA CAMPURSARI
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+#https://op-group1-swiftservehd-1.dens.tv/h/h108/S4/mnf.m3u8
+#https://op-group1-swiftservehd-1.dens.tv/h/h208/02.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h208/index.m3u8?app_type=web&userid=lite&chname=channel-jowo
 
 
 
