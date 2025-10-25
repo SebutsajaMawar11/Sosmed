@@ -52,7 +52,6 @@ YOK MAMPIR SINI    :      https://t.me/mawar_developer
 
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ITiuJRZzFUI/mqdefault.jpg" group-title="- MDM LIVE STREAM -",🔴 LIVE (JAM 13:30 Wib) MERPATI MUSIC
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/O3vCdOv1PDc/hqdefault.jpg" group-title="Indonesia Channels",🔴 LIVE
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 #https://op-group1-swiftservehd-1.dens.tv/h/h108/S4/mnf.m3u8
@@ -64,7 +63,6 @@ https://op-group1-swiftservehd-1.dens.tv/h/h208/index.m3u8?app_type=web&userid=l
 
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/YDM1dor3zWU/mqdefault.jpg" group-title="- MDM LIVE STREAM -",🔴 LIVE (JAM 13:30 Wib) GIRAP GIRAP MUSIC
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/O3vCdOv1PDc/hqdefault.jpg" group-title="Indonesia Channels",🔴 LIVE
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 #https://op-group1-swiftservehd-1.dens.tv/h/h108/S4/mnf.m3u8
