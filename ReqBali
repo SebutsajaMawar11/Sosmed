@@ -52,11 +52,7 @@ YOK MAMPIR SINI    :      https://t.me/mawar_developer
 
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/mQiK82Fmzf8/mqdefault.jpg" group-title="- MDM LIVE STREAM -",🔴 LIVE JADWAL (22:30 Wib) KETOPRAK MANUNGGAL BUDOYO
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-#https://op-group1-swiftservehd-1.dens.tv/h/h108/S4/mnf.m3u8
-#https://op-group1-swiftservehd-1.dens.tv/h/h208/02.m3u8
-https://op-group1-swiftservehd-1.dens.tv/h/h208/index.m3u8?app_type=web&userid=lite&chname=channel-jowo
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1761422759/ei/R9n8aL3HD4WJ1d8P2NPxkQY/ip/160.22.128.114/id/mQiK82Fmzf8.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AdEuB5RmvBYE_0n1U9ug7hDOkTLhxGPYcGXk-JhOFhLSZkZjGpIyHK-KvGQiLagMwDaJeRKpkG8fOLHJ/spc/6b0G_JsSd2AtLvK5Dh0e7S68km9nGtvYgHx4D2xbc31pnxCtauXc/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgCYqRwmxfJkoPxWt9K2a6XXUyVPrRb2Eyti2A2Qq3mQcCIQCWqSrrH9spuu_-uf3p-YvNDeSFi5-cUu-hmAqokawikA%3D%3D/file/index.m3u8
 
 
 
