@@ -44,22 +44,24 @@ YOK MAMPIR SINI    :      https://t.me/mawar_developer
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e4HpkHjZCV4/mqdefault.jpg" group-title="- MDM LIVE STREAM -",🔴 LIVE 1 (Menunggu input VIDEO)
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/CcZ1WRtNZKA/mqdefault.jpg" group-title="- MDM LIVE STREAM -",🔴 LIVE BANANA CAMPURSARI
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 #https://op-group1-swiftservehd-1.dens.tv/h/h108/S4/mnf.m3u8
 #https://op-group1-swiftservehd-1.dens.tv/h/h208/02.m3u8
-https://op-group1-swiftservehd-1.dens.tv/h/h208/index.m3u8?app_type=web&userid=lite&chname=channel-jowo
+#####https://op-group1-swiftservehd-1.dens.tv/h/h208/index.m3u8?app_type=web&userid=lite&chname=channel-jowo
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1761504896/ei/IBr-aMj-F6eU4t4PoL-T2Ao/ip/160.22.128.18/id/CcZ1WRtNZKA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AdEuB5SqZ-anaV0JA9hsRjX2mvdeoECsdguva3IA21a_XgTFh0mXmCcG3OaOyY6et1jhgu04nsphHjKq/spc/6b0G_MLxkwHUInEFOpV3GlW72NWxDipS7wfDyJ_EvuRWkuhX8FPA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgeglkU9kGm1hAJ7dlAUBE99D1h6Oi65O0QWHsMmLUMPICIQDzZ8pkfPfZcYp7MHzLVB3oQkqMu5PrhzdgtrfFLV9GwA%3D%3D/file/index.m3u8
 
 
 
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e4HpkHjZCV4/mqdefault.jpg" group-title="- MDM LIVE STREAM -",🔴 LIVE 2 (Menunggu input VIDEO)
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/eA2si9KZcJ4/mqdefault.jpg" group-title="- MDM LIVE STREAM -",🔴 LIVE KARAWITAN AJI MUSTIKO LARAS
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 #https://op-group1-swiftservehd-1.dens.tv/h/h108/S4/mnf.m3u8
 #https://op-group1-swiftservehd-1.dens.tv/h/h208/02.m3u8
-https://op-group1-swiftservehd-1.dens.tv/h/h208/index.m3u8?app_type=web&userid=lite&chname=channel-jowo
+####https://op-group1-swiftservehd-1.dens.tv/h/h208/index.m3u8?app_type=web&userid=lite&chname=channel-jowo
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1761505080/ei/2Br-aPuKB8Ha3LUP0cPSuAY/ip/160.22.128.18/id/eA2si9KZcJ4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AdEuB5RMf2PrqoZac-VZawguuiR7Z6klqspjLYhHYfwY0muP6nlO9GiqQKLn5aCpa6EaSwxjE25F6m_N/spc/6b0G_Gu9Xc6WwvH9oUTSNT8ZK-9UTatWrzQ5Dt5ikmKgIyiklOXJ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhANvxmO9k5_zSvapoQTS1WGWou48lPe58zJUzUdwkEy0sAiEAq7LHjdt_4Z6yfYJc6TbTJsw58qV48aP5pywsDnOTyuk%3D/file/index.m3u8
+
 
 
 
