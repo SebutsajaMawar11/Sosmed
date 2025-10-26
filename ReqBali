@@ -2367,15 +2367,15 @@ https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manife
 ______
 DUBAI SPORT
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://flixin.tv/upload/images/channels/dubsports3.png",DUBAI SPORTS 1
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://pic.rutubelist.ru/video/2025-09-29/8f/a3/8fa3fd232ed6f663788c46c29c38ac86.jpg",DUBAI SPORTS 1
 https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8
 
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://flixin.tv/upload/images/channels/dubsports3.png",DUBAI SPORTS 2
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://pic.rutubelist.ru/video/2025-09-29/8f/a3/8fa3fd232ed6f663788c46c29c38ac86.jpg",DUBAI SPORTS 2
 https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/master.m3u8
 
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://flixin.tv/upload/images/channels/dubsports3.png",DUBAI SPORTS 3
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://pic.rutubelist.ru/video/2025-09-29/8f/a3/8fa3fd232ed6f663788c46c29c38ac86.jpg",DUBAI SPORTS 3
 https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/master.m3u8
 
 
@@ -2383,24 +2383,16 @@ ______
 SSC TV
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzQHPHTtCxdnNrjqbs_gKEePown7hQ-xx2Dw&s",SSC 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
-https://ssc-1-enc.edgenextcdn.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
+
+
 
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzQHPHTtCxdnNrjqbs_gKEePown7hQ-xx2Dw&s",SSC 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8bcfc55359e24bd7ad1c5560a96ddd3c:b5dcf721ab522af92a9d3bf0bd55b596
-https://ssc-2-enc.edgenextcdn.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd
+
 
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzQHPHTtCxdnNrjqbs_gKEePown7hQ-xx2Dw&s",SSC 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7de5dd08ad8041d586c2f16ccc9490a1:5e1503f3398b34f5099933fedab847ef
-https://ssc-3-enc.edgenextcdn.net/out/v1/42e86125555242aaa2a12056832e7814/index.mpd
+
 
 
 
