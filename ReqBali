@@ -44,19 +44,7 @@ YOK MAMPIR SINI    :      https://t.me/mawar_developer
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e4HpkHjZCV4/mqdefault.jpg" group-title="- MDM LIVE STREAM -",🔴 LIVE NEW GALATAMA
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1761481641/ei/Sb_9aOOMNbqI3LUPsKSPuAM/ip/160.22.128.18/id/3Ge9rDHHBlk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5RkdpJKZKHW6Se9ojHWDGp7NMT0kYbTR7vzvP5JIBTyGPtSmXB2j5naC7kScXL8Fm90mJYPV8Wh/spc/6b0G_OtHlNv4efIjQt72zuG2c9PymrLKqTT6xjcnNQ1KZErk30RDZkILGHbV3kC19Q0_JamigXUJ8Q/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51331020%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAOI1vcwJlL_3L4v-hhHSM0rfqQ9WDKf4IMYO5Gstm7ALAiBYiVa4yGWkoNOT9FR2cTcl-OECsy7LJE0IbVur_By1Ag%3D%3D/file/index.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e4HpkHjZCV4/mqdefault.jpg" group-title="- MDM LIVE STREAM -",🔴 LIVE ARSENA MUSIC
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1761481862/ei/JsD9aLXiDpOjg8UPsfL7oAQ/ip/160.22.128.114/id/hra1JNlXgME.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5Twg-26e-BmLRKhFbscMgMNfe8MPzVx3TVePePxf931s2ikHycCiLe_0itEktSiK77HiR-W0KiF/spc/6b0G_IrY34kX7qAA_Mhs2d95hVO9deMZpvVc0DQ7Xi586TTG3noq5-P7s2pUwr5yiMEf9Z6ye48K5w/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51331020%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgElGDfSX91nNIhGpHAF1AVXn-xLwjtP-NpVNmarLFXtwCIQDsgNIGr_8T_culbzkbuw-l5Yr4p-U1GiYLyG0DiDZQ_w%3D%3D/file/index.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e4HpkHjZCV4/mqdefault.jpg" group-title="- MDM LIVE STREAM -",🔴 LIVE 3 (Waiting for video input)
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e4HpkHjZCV4/mqdefault.jpg" group-title="- MDM LIVE STREAM -",🔴 LIVE 1 (Menunggu input VIDEO)
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 #https://op-group1-swiftservehd-1.dens.tv/h/h108/S4/mnf.m3u8
@@ -66,16 +54,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h208/index.m3u8?app_type=web&userid=l
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e4HpkHjZCV4/mqdefault.jpg" group-title="- MDM LIVE STREAM -",🔴 LIVE 4 (Waiting for video input)
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-#https://op-group1-swiftservehd-1.dens.tv/h/h108/S4/mnf.m3u8
-#https://op-group1-swiftservehd-1.dens.tv/h/h208/02.m3u8
-https://op-group1-swiftservehd-1.dens.tv/h/h208/index.m3u8?app_type=web&userid=lite&chname=channel-jowo
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e4HpkHjZCV4/mqdefault.jpg" group-title="- MDM LIVE STREAM -",🔴 LIVE 5 (Waiting for video input)
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e4HpkHjZCV4/mqdefault.jpg" group-title="- MDM LIVE STREAM -",🔴 LIVE 2 (Menunggu input VIDEO)
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 #https://op-group1-swiftservehd-1.dens.tv/h/h108/S4/mnf.m3u8
@@ -85,7 +64,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h208/index.m3u8?app_type=web&userid=l
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e4HpkHjZCV4/mqdefault.jpg" group-title="- MDM LIVE STREAM -",🔴 LIVE 6 (Waiting for video input)
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e4HpkHjZCV4/mqdefault.jpg" group-title="- MDM LIVE STREAM -",🔴 LIVE 3 (Menunggu input VIDEO)
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 #https://op-group1-swiftservehd-1.dens.tv/h/h108/S4/mnf.m3u8
@@ -94,7 +73,36 @@ https://op-group1-swiftservehd-1.dens.tv/h/h208/index.m3u8?app_type=web&userid=l
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e4HpkHjZCV4/mqdefault.jpg" group-title="- MDM LIVE STREAM -",🔴 LIVE 7 (Waiting for video input)
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e4HpkHjZCV4/mqdefault.jpg" group-title="- MDM LIVE STREAM -",🔴 LIVE 4 (Menunggu input VIDEO)
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+#https://op-group1-swiftservehd-1.dens.tv/h/h108/S4/mnf.m3u8
+#https://op-group1-swiftservehd-1.dens.tv/h/h208/02.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h208/index.m3u8?app_type=web&userid=lite&chname=channel-jowo
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e4HpkHjZCV4/mqdefault.jpg" group-title="- MDM LIVE STREAM -",🔴 LIVE 5 (Menunggu input VIDEO)
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+#https://op-group1-swiftservehd-1.dens.tv/h/h108/S4/mnf.m3u8
+#https://op-group1-swiftservehd-1.dens.tv/h/h208/02.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h208/index.m3u8?app_type=web&userid=lite&chname=channel-jowo
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e4HpkHjZCV4/mqdefault.jpg" group-title="- MDM LIVE STREAM -",🔴 LIVE 6 (Menunggu input VIDEO)
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+#https://op-group1-swiftservehd-1.dens.tv/h/h108/S4/mnf.m3u8
+#https://op-group1-swiftservehd-1.dens.tv/h/h208/02.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h208/index.m3u8?app_type=web&userid=lite&chname=channel-jowo
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e4HpkHjZCV4/mqdefault.jpg" group-title="- MDM LIVE STREAM -",🔴 LIVE 7 (Menunggu input VIDEO)
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 #https://op-group1-swiftservehd-1.dens.tv/h/h108/S4/mnf.m3u8
